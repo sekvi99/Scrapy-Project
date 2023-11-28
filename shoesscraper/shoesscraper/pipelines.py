@@ -7,6 +7,9 @@
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
 
+"""
+Saving data at database, sending api request with created collection.
+"""
 
 class ShoesscraperPipeline:
     def process_item(self, item, spider):

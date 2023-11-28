@@ -7,6 +7,8 @@
 from itemadapter import ItemAdapter, is_item
 from scrapy import signals
 
+# This file contains middleware components that allow you to process requests 
+# and responses globally across all spiders in your Scrapy project
 
 class ShoesscraperSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
