@@ -4961,11 +4961,32 @@
         "discount_percent": 30
       },
       {
+        "name": "Bia\u0142e sznurowane trzewiki damskie ze sk\u00f3ry licowej",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Czarne pikowane trzewiki na s\u0142upku",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
         "name": "Czarne klapki damskie na p\u0142askiej platformie",
         "price": 99.0,
         "is_discounted": true,
         "is_new": false,
         "discount_percent": 23
+      },
+      {
+        "name": "Be\u017cowe pikowane klapki damskie na grubej podeszwie",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
       },
       {
         "name": "Bia\u0142e sanda\u0142y damskie z pikowanym paskiem",
@@ -5171,6 +5192,29 @@
         "discount_percent": 20
       },
       {
+        "name": "Czarne lordsy damskie z imitacj\u0105 sk\u00f3ry krokodyla",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 11
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Be\u017cowe botki damskie",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      }
+    ],
+    [
+      {
         "name": "Klapki damskie z br\u0105zowo-be\u017cowym plecionym paskiem",
         "price": 79.0,
         "is_discounted": true,
@@ -5191,29 +5235,6 @@
         "is_new": false,
         "discount_percent": 22
       },
-      {
-        "name": "Czarne lordsy damskie z imitacj\u0105 sk\u00f3ry krokodyla",
-        "price": 199.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 11
-      },
-      {
-        "name": "Czarne cz\u00f3\u0142enka damskie",
-        "price": 149.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 25
-      },
-      {
-        "name": "Be\u017cowe pikowane klapki damskie na grubej podeszwie",
-        "price": 129.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 35
-      }
-    ],
-    [
       {
         "name": "RELAKS ciep\u0142e czarne \u015aniegowce damskie",
         "price": 349.0,
@@ -5250,13 +5271,6 @@
         "discount_percent": null
       },
       {
-        "name": "Be\u017cowe Relaksy damskie typu \u015bniegowce ocieplane sk\u00f3r\u0105 owcz\u0105",
-        "price": 599.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      },
-      {
         "name": "RELAKS jasnobr\u0105zowe wsuwane \u015aniegowce damskie",
         "price": 349.0,
         "is_discounted": true,
@@ -5269,6 +5283,13 @@
         "is_discounted": false,
         "is_new": false,
         "discount_percent": null
+      },
+      {
+        "name": "WJS czarne botki damskie z zamkiem z ty\u0142u",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 9
       },
       {
         "name": "WJS czarne botki damskie na wysokim obcasie",
@@ -5299,13 +5320,6 @@
         "discount_percent": 34
       },
       {
-        "name": "RELAKS stylowe ocieplane bia\u0142e \u015aniegowce damskie",
-        "price": 419.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 16
-      },
-      {
         "name": "WJS czarne lakierowane botki damskie",
         "price": 299.0,
         "is_discounted": false,
@@ -5315,6 +5329,13 @@
       {
         "name": "RELAKS czarne \u015aniegowce damskie z po\u0142\u0105czenia sk\u00f3ry i ortalionu",
         "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne wysokie trzewiki damskie z motywem zwierz\u0119cym",
+        "price": 349.0,
         "is_discounted": false,
         "is_new": false,
         "discount_percent": null
@@ -5348,13 +5369,6 @@
         "discount_percent": null
       },
       {
-        "name": "WJS czarne trzewiki damskie z ozdobn\u0105 klamr\u0105",
-        "price": 259.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      },
-      {
         "name": "Botki Wojas x Bartek 8440263, br\u0105zowy",
         "price": 179.0,
         "is_discounted": true,
@@ -5364,6 +5378,13 @@
       {
         "name": "Wysokie \u015bniegowce damskie RELAKS w kolorze czarnym",
         "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z \u0142a\u0144cuchem",
+        "price": 329.0,
         "is_discounted": false,
         "is_new": false,
         "discount_percent": null
@@ -5572,6 +5593,29 @@
         "discount_percent": null
       },
       {
+        "name": "Be\u017cowe Relaksy damskie typu \u015bniegowce ocieplane sk\u00f3r\u0105 owcz\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS stylowe ocieplane bia\u0142e \u015aniegowce damskie",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 16
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z ozdobn\u0105 klamr\u0105",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
         "name": "RELAKS czarne ocieplane trzewiki damskie ze z\u0142otymi elementami",
         "price": 499.0,
         "is_discounted": false,
@@ -5592,29 +5636,6 @@
         "is_new": false,
         "discount_percent": 6
       },
-      {
-        "name": "WJS czarne botki damskie z zamkiem z ty\u0142u",
-        "price": 181.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 9
-      },
-      {
-        "name": "WJS czarne wysokie trzewiki damskie z motywem zwierz\u0119cym",
-        "price": 349.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      },
-      {
-        "name": "WJS czarne trzewiki damskie z \u0142a\u0144cuchem",
-        "price": 329.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      }
-    ],
-    [
       {
         "name": "RELAKS be\u017cowe pantofle damskie puchate",
         "price": 155.0,
@@ -5651,13 +5672,6 @@
         "discount_percent": null
       },
       {
-        "name": "WJS czarne trzewiki damskie typu workery",
-        "price": 181.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 1
-      },
-      {
         "name": "Srebrno-czarne \u015bniegowce damskie RELAKS",
         "price": 419.0,
         "is_discounted": true,
@@ -5670,6 +5684,13 @@
         "is_discounted": true,
         "is_new": false,
         "discount_percent": 30
+      },
+      {
+        "name": "RELAKS czarne puchate kapcie z gumk\u0105 na pi\u0119t\u0119",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
       },
       {
         "name": "RELAKS be\u017cowe puchate kapcie damskie z gumk\u0105",
@@ -5700,13 +5721,6 @@
         "discount_percent": 40
       },
       {
-        "name": "WJS niebieskie kapcie ze sztucznego futra z gumk\u0105",
-        "price": 149.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      },
-      {
         "name": "WJS fioletowe puchate kapcie na flatformie",
         "price": 149.0,
         "is_discounted": false,
@@ -5719,6 +5733,13 @@
         "is_discounted": false,
         "is_new": false,
         "discount_percent": null
+      },
+      {
+        "name": "RELAKS be\u017cowe trzewiki damskie z dwoiny welurowej i ortalionu",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
       },
       {
         "name": "WJS be\u017cowe sanda\u0142y damskie na obcasie z kryszta\u0142kow\u0105 ozdob\u0105",
@@ -5749,13 +5770,6 @@
         "discount_percent": null
       },
       {
-        "name": "RELAKS czarne \u015aniegowce damskie z wywijan\u0105, ocieplan\u0105 cholewk\u0105",
-        "price": 599.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      },
-      {
         "name": "WJS \u017c\u00f3\u0142te kapcie damskie z przeplatanymi paskami",
         "price": 99.0,
         "is_discounted": false,
@@ -5765,6 +5779,13 @@
       {
         "name": "WJS be\u017cowe kozaki damskie zapinane na zamek",
         "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne botki z zamkiem z przodu",
+        "price": 259.0,
         "is_discounted": false,
         "is_new": false,
         "discount_percent": null
@@ -5973,6 +5994,29 @@
         "discount_percent": 23
       },
       {
+        "name": "WJS czarne trzewiki damskie typu workery",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS niebieskie kapcie ze sztucznego futra z gumk\u0105",
+        "price": 149.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne \u015aniegowce damskie z wywijan\u0105, ocieplan\u0105 cholewk\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
         "name": "Czarne wieczorowe sanda\u0142y damskie na obcasie",
         "price": 159.0,
         "is_discounted": true,
@@ -5993,29 +6037,6 @@
         "is_new": false,
         "discount_percent": 23
       },
-      {
-        "name": "RELAKS czarne puchate kapcie z gumk\u0105 na pi\u0119t\u0119",
-        "price": 179.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 40
-      },
-      {
-        "name": "RELAKS be\u017cowe trzewiki damskie z dwoiny welurowej i ortalionu",
-        "price": 299.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 35
-      },
-      {
-        "name": "WJS czarne botki z zamkiem z przodu",
-        "price": 259.0,
-        "is_discounted": false,
-        "is_new": false,
-        "discount_percent": null
-      }
-    ],
-    [
       {
         "name": "WJS czarne wysokie sanda\u0142y damskie z odkryt\u0105 pi\u0119t\u0105",
         "price": 99.0,
@@ -6052,13 +6073,6 @@
         "discount_percent": 17
       },
       {
-        "name": "WJS czarne japonki z imitacj\u0105 krokodylej sk\u00f3ry",
-        "price": 59.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 1
-      },
-      {
         "name": "P\u0142askie japonki damskie w kolorze mi\u0119towym",
         "price": 49.0,
         "is_discounted": true,
@@ -6071,6 +6085,13 @@
         "is_discounted": true,
         "is_new": false,
         "discount_percent": 1
+      },
+      {
+        "name": "WJS czarne stylowe kozaki damskie na p\u0142askiej podeszwie",
+        "price": 244.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 6
       },
       {
         "name": "WJS be\u017cowe sanda\u0142y damskie z kryszta\u0142kami",
@@ -6101,13 +6122,6 @@
         "discount_percent": 10
       },
       {
-        "name": "WJS zjawiskowe srebrne sanda\u0142y damskie na obcasie",
-        "price": 159.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 1
-      },
-      {
         "name": "WJS wysokie be\u017cowe sanda\u0142y na platformie",
         "price": 99.0,
         "is_discounted": true,
@@ -6116,6 +6130,13 @@
       },
       {
         "name": "WJS be\u017cowe sanda\u0142y damskie na platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS wysokie srebrne sanda\u0142y damskie",
         "price": 99.0,
         "is_discounted": true,
         "is_new": false,
@@ -6150,13 +6171,6 @@
         "discount_percent": 4
       },
       {
-        "name": "WJS wysokie sanda\u0142y damskie w kolorze czarnym",
-        "price": 99.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 23
-      },
-      {
         "name": "WJS czarne sanda\u0142y damskie z paskami z kryszta\u0142kami",
         "price": 159.0,
         "is_discounted": true,
@@ -6169,6 +6183,13 @@
         "is_discounted": true,
         "is_new": false,
         "discount_percent": 9
+      },
+      {
+        "name": "WJS czarne kozaki damskie typu sztyblety",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
       },
       {
         "name": "WJS sanda\u0142y damskie na platformie w kolorze czarnym",
@@ -6374,6 +6395,29 @@
         "discount_percent": 10
       },
       {
+        "name": "WJS czarne japonki z imitacj\u0105 krokodylej sk\u00f3ry",
+        "price": 59.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS zjawiskowe srebrne sanda\u0142y damskie na obcasie",
+        "price": 159.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS wysokie sanda\u0142y damskie w kolorze czarnym",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      }
+    ],
+    [
+      {
         "name": "WJS z\u0142ote klapki damskie na p\u0142askiej podeszwie",
         "price": 99.0,
         "is_discounted": true,
@@ -6394,29 +6438,6 @@
         "is_new": false,
         "discount_percent": 20
       },
-      {
-        "name": "WJS czarne stylowe kozaki damskie na p\u0142askiej podeszwie",
-        "price": 244.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 6
-      },
-      {
-        "name": "WJS wysokie srebrne sanda\u0142y damskie",
-        "price": 99.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 23
-      },
-      {
-        "name": "WJS czarne kozaki damskie typu sztyblety",
-        "price": 279.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 1
-      }
-    ],
-    [
       {
         "name": "WJS be\u017cowe masywne klapki damskie na platformie",
         "price": 99.0,
@@ -6453,13 +6474,6 @@
         "discount_percent": 19
       },
       {
-        "name": "WJS oryginalne be\u017cowe sanda\u0142y na platformie",
-        "price": 79.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 20
-      },
-      {
         "name": "WJS czarne sanda\u0142y ze srebrnym \u0142a\u0144cuchem",
         "price": 119.0,
         "is_discounted": true,
@@ -6472,6 +6486,13 @@
         "is_discounted": true,
         "is_new": false,
         "discount_percent": 17
+      },
+      {
+        "name": "WJS czarne p\u0142askie kozaki damskie z wysok\u0105 cholewk\u0105",
+        "price": 263.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 12
       },
       {
         "name": "WJS be\u017cowe sanda\u0142y damskie na p\u0142askiej podeszwie",
@@ -6488,18 +6509,11 @@
         "discount_percent": 24
       },
       {
-        "name": "Granatowe zimowe RELAKS",
-        "price": 99.0,
+        "name": "WJS oryginalne be\u017cowe sanda\u0142y na platformie",
+        "price": 79.0,
         "is_discounted": true,
         "is_new": false,
-        "discount_percent": 34
-      },
-      {
-        "name": "WJS czarne p\u0142askie kozaki damskie z wysok\u0105 cholewk\u0105",
-        "price": 263.0,
-        "is_discounted": true,
-        "is_new": false,
-        "discount_percent": 12
+        "discount_percent": 20
       }
     ]
   ],

@@ -12,6 +12,13 @@ class ShoesItemDto(BaseModel):
     is_new: Optional[bool] # Is new kind of shoe
     discount_percent: Optional[int] # Per cent of discount
 
+class BookItemDto(BaseModel):
+    product_rank: str # Order in bestsellers
+    name: str # Book name
+    author: Optional[str] # Author name
+    price: float # Book price
+    price_before_thrity_days: Optional[float] # Book price from 30 days
+    product_discount: Optional[str] # Book discount
 
 class ScrapCollectionDto(BaseModel, Generic[TDataType]):
     collection: List[TDataType] # Collection of scrapped items

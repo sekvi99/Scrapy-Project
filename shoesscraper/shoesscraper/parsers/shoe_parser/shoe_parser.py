@@ -1,7 +1,5 @@
 from dataclasses import dataclass
-from typing import List, Union
-
-from scrapy.http import Response
+from typing import List
 
 from ...consts.shoes_consts.constans import (
     PRODUCT_DISCROUNTED_PRICE_SELECTOR, PRODUCT_IS_NEW_SELECTOR,
@@ -19,7 +17,6 @@ class ShoeParser(AbstractParser):
         
         product_list = self.content.css(PRODUCTS_LIST_SELECTOR)
         for product in product_list:
-            
             # Helpers
             price_str = self._extract_text(product, PRODUCT_PRICE_SELECTOR)
             is_product_discounted = self._is_price_discounted(price_str)
@@ -41,10 +38,6 @@ class ShoeParser(AbstractParser):
         return items
         
     # * Section private methods
-    def _extract_text(self, element: Response.body, selector: str) -> Union[str, None]:
-        selected_element = element.css(selector).get()
-        return selected_element.strip() if selected_element else None
-
     def _is_price_discounted(self, price_str: str) -> bool:
         return True if '%' in price_str else False
     
