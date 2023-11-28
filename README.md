@@ -31,3 +31,11 @@ Running existing spiders with commends provided below, will create result files 
 scrapy crawl shoes # shoes_collection.json
 scrapy crawl books # books_collection.json
 ```
+
+# Run base tests
+Test check only whether whole process of crawling does not effect any errors.\
+From main directory run below.
+```
+pytest shoesscraper/tests/test_book_spider.py
+pytest shoesscraper/tests/test_shoes_spider.py
+```

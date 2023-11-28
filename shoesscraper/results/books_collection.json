@@ -1,0 +1,813 @@
+{
+  "collection": [
+    [
+      {
+        "product_rank": "TOP 1",
+        "name": "Ch\u0142opki. Opowie\u015b\u0107 o naszych babkach",
+        "author": "Joanna Kuciel-Frydryszak",
+        "price": 38.09,
+        "price_before_thrity_days": 40.39,
+        "product_discount": "-6%"
+      },
+      {
+        "product_rank": "TOP 2",
+        "name": "\u015awiat Poli. Pytaj do woli",
+        "author": "Irena M\u0105sior Mili0nerka",
+        "price": 34.99,
+        "price_before_thrity_days": 19.92,
+        "product_discount": "+76%"
+      },
+      {
+        "product_rank": "TOP 3",
+        "name": "Nic mnie nie z\u0142amie. Zapanuj nad swoim umys\u0142em i pokonaj przeciwno\u015bci losu",
+        "author": "David Goggins",
+        "price": 36.41,
+        "price_before_thrity_days": 35.82,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 4",
+        "name": "Diament. Rodzina Monet. Tom 4. Cz\u0119\u015b\u0107 1",
+        "author": "Weronika Marczak",
+        "price": 30.19,
+        "price_before_thrity_days": 29.9,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 5",
+        "name": "Rodzina P\u0119telk\u00f3w czeka na \u015bwi\u0119ta",
+        "author": "Barbara Supe\u0142",
+        "price": 23.28,
+        "price_before_thrity_days": 21.45,
+        "product_discount": "+9%"
+      },
+      {
+        "product_rank": "TOP 6",
+        "name": "Pucio robi porz\u0105dek",
+        "author": "Marta Galewska-Kustra",
+        "price": 20.99,
+        "price_before_thrity_days": 20.79,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 7",
+        "name": "Atomowe nawyki. Drobne zmiany, niezwyk\u0142e efekty",
+        "author": "James  Clear",
+        "price": 25.61,
+        "price_before_thrity_days": 25.42,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 8",
+        "name": "Nie myli\u0107 z mi\u0142o\u015bci\u0105",
+        "author": "Katarzyna Nosowska",
+        "price": 31.28,
+        "price_before_thrity_days": 30.77,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 9",
+        "name": "Kicia Kocia si\u0119 z\u0142o\u015bci",
+        "author": "Anita G\u0142owi\u0144ska",
+        "price": 7.43,
+        "price_before_thrity_days": 7.43,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 10",
+        "name": "Planer Ksi\u0105\u017ckary",
+        "author": null,
+        "price": 44.9,
+        "price_before_thrity_days": 54.9,
+        "product_discount": "-18%"
+      },
+      {
+        "product_rank": "TOP 11",
+        "name": "Dawno temu w Warszawie",
+        "author": "Jakub \u017bulczyk",
+        "price": 43.85,
+        "price_before_thrity_days": 43.99,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 12",
+        "name": "Czu\u0142a przewodniczka. Kobieca droga do siebie",
+        "author": "Natalia de Barbaro",
+        "price": 27.33,
+        "price_before_thrity_days": 21.99,
+        "product_discount": "+24%"
+      },
+      {
+        "product_rank": "TOP 13",
+        "name": "\u015awiat\u0142a w popio\u0142ach",
+        "author": "Remigiusz Mr\u00f3z",
+        "price": 30.39,
+        "price_before_thrity_days": 30.38,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 14",
+        "name": "Niepokorne serca",
+        "author": "Ludka Skrzydlewska",
+        "price": 9.9,
+        "price_before_thrity_days": 28.95,
+        "product_discount": "-66%"
+      },
+      {
+        "product_rank": "TOP 15",
+        "name": "Clone. Students. Tom 1",
+        "author": "Aleksandra Negro\u0144ska",
+        "price": 33.2,
+        "price_before_thrity_days": 31.85,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 16",
+        "name": "Occulta",
+        "author": "Paulina \u015awist",
+        "price": 25.2,
+        "price_before_thrity_days": 26.92,
+        "product_discount": "-6%"
+      },
+      {
+        "product_rank": "TOP 17",
+        "name": "Nawyki warte miliony. Jak nauczy\u0107 si\u0119 zachowa\u0144 przynosz\u0105cych bogactwo",
+        "author": "Brian Tracy",
+        "price": 30.78,
+        "price_before_thrity_days": 27.99,
+        "product_discount": "+10%"
+      },
+      {
+        "product_rank": "TOP 18",
+        "name": "Identical. Students. Tom 3",
+        "author": "Aleksandra Negro\u0144ska",
+        "price": 33.1,
+        "price_before_thrity_days": 31.85,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 19",
+        "name": "Kicia Kocia i Nunu\u015b. Czekamy na \u015bwi\u0119ta!",
+        "author": "Anita G\u0142owi\u0144ska",
+        "price": 29.99,
+        "price_before_thrity_days": 27.99,
+        "product_discount": "+7%"
+      },
+      {
+        "product_rank": "TOP 20",
+        "name": "Unique. Students. Tom 4",
+        "author": "Aleksandra Negro\u0144ska",
+        "price": 34.9,
+        "price_before_thrity_days": 33.58,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 21",
+        "name": "CzaroMarownik 2024",
+        "author": null,
+        "price": 27.84,
+        "price_before_thrity_days": 29.94,
+        "product_discount": "-7%"
+      },
+      {
+        "product_rank": "TOP 22",
+        "name": "Przyjaciele, kochankowie i ta Wielka Straszna Rzecz",
+        "author": "Matthew Perry",
+        "price": 46.62,
+        "price_before_thrity_days": 46.48,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 23",
+        "name": "Different. Students. Tom 2",
+        "author": "Aleksandra Negro\u0144ska",
+        "price": 33.2,
+        "price_before_thrity_days": 31.85,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 24",
+        "name": "Skarb. Rodzina Monet. Tom 1",
+        "author": "Weronika Marczak",
+        "price": 27.16,
+        "price_before_thrity_days": 26.08,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 25",
+        "name": "Kicia Kocia i Nunu\u015b. Jaka pi\u0119kna zima!",
+        "author": "Anita G\u0142owi\u0144ska",
+        "price": 29.99,
+        "price_before_thrity_days": 27.99,
+        "product_discount": "+7%"
+      },
+      {
+        "product_rank": "TOP 26",
+        "name": "Pere\u0142ka. Rodzina Monet. Tom 3. Cz\u0119\u015b\u0107 2",
+        "author": "Weronika Marczak",
+        "price": 30.19,
+        "price_before_thrity_days": 28.98,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 27",
+        "name": "Mroczne szepty",
+        "author": "Joanne MacGregor",
+        "price": 9.9,
+        "price_before_thrity_days": 14.9,
+        "product_discount": "-34%"
+      },
+      {
+        "product_rank": "TOP 28",
+        "name": "Pakiet: Tego lata sta\u0142am si\u0119 pi\u0119kna, Bez ciebie nie ma lata, Dla nas zawsze b\u0119dzie lato",
+        "author": "Jenny Han",
+        "price": 61.94,
+        "price_before_thrity_days": 54.95,
+        "product_discount": "+13%"
+      },
+      {
+        "product_rank": "TOP 29",
+        "name": "Elf do zada\u0144 specjalnych",
+        "author": "Katarzyna Wierzbicka",
+        "price": 26.49,
+        "price_before_thrity_days": 24.97,
+        "product_discount": "+6%"
+      },
+      {
+        "product_rank": "TOP 30",
+        "name": "Kicia Kocia i Nunu\u015b. Id\u0105 \u015bwi\u0119ta",
+        "author": "Anita G\u0142owi\u0144ska",
+        "price": 30.49,
+        "price_before_thrity_days": 30.49,
+        "product_discount": null
+      }
+    ],
+    [
+      {
+        "product_rank": "TOP 31",
+        "name": "Pere\u0142ka. Rodzina Monet. Tom 3. Cz\u0119\u015b\u0107 1",
+        "author": "Weronika Marczak",
+        "price": 30.19,
+        "price_before_thrity_days": 28.9,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 32",
+        "name": "Kr\u00f3lewna. Rodzina Monet. Tom 2. Cz\u0119\u015b\u0107 2",
+        "author": "Weronika Marczak",
+        "price": 27.16,
+        "price_before_thrity_days": 26.08,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 33",
+        "name": "S\u0142u\u017c\u0105ce do wszystkiego",
+        "author": "Joanna Kuciel-Frydryszak",
+        "price": 31.63,
+        "price_before_thrity_days": 31.06,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 34",
+        "name": "Opowie\u015bci o tym, co w \u017cyciu wa\u017cne",
+        "author": "Marek  Michalak",
+        "price": 27.5,
+        "price_before_thrity_days": 23.56,
+        "product_discount": "+17%"
+      },
+      {
+        "product_rank": "TOP 35",
+        "name": "Kr\u00f3lewna. Rodzina Monet. Tom 2. Cz\u0119\u015b\u0107 1",
+        "author": "Weronika Marczak",
+        "price": 27.16,
+        "price_before_thrity_days": 26.07,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 36",
+        "name": "Jak Zrz\u0119dus chcia\u0142 zepsu\u0107 \u015awi\u0119ta",
+        "author": "Alex T. Smith",
+        "price": 31.75,
+        "price_before_thrity_days": 34.77,
+        "product_discount": "-9%"
+      },
+      {
+        "product_rank": "TOP 37",
+        "name": "Sztuka dawania prezent\u00f3w",
+        "author": "Anna Szcz\u0119sna",
+        "price": 9.9,
+        "price_before_thrity_days": 9.9,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 38",
+        "name": "Kicia Kocia. Zima",
+        "author": "Anita G\u0142owi\u0144ska",
+        "price": 7.49,
+        "price_before_thrity_days": 7.43,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 39",
+        "name": "Bogaty ojciec, biedny ojciec",
+        "author": "Sharon Lechter",
+        "price": 22.68,
+        "price_before_thrity_days": 22.33,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 40",
+        "name": "Rider",
+        "author": "Heide Bergmann",
+        "price": 14.9,
+        "price_before_thrity_days": 19.9,
+        "product_discount": "-25%"
+      },
+      {
+        "product_rank": "TOP 41",
+        "name": "Bubu uczy si\u0119 m\u00f3wi\u0107. A kuku! Interaktywna ksi\u0105\u017ceczka do stymulacji mowy dziecka od 6. miesi\u0105ca do 3. roku \u017cycia",
+        "author": "Anna M. Buszkiewicz",
+        "price": 14.99,
+        "price_before_thrity_days": 14.69,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 42",
+        "name": "11 papierowych serc",
+        "author": "Kelsey Hartwell",
+        "price": 24.74,
+        "price_before_thrity_days": 21.95,
+        "product_discount": "+13%"
+      },
+      {
+        "product_rank": "TOP 43",
+        "name": "Z widokiem na mi\u0142o\u015b\u0107",
+        "author": "Kate Sterritt",
+        "price": 9.9,
+        "price_before_thrity_days": 20.3,
+        "product_discount": "-51%"
+      },
+      {
+        "product_rank": "TOP 44",
+        "name": "Pierwsza gwiazdka w Cichej Dolinie",
+        "author": "Barbara Anna  Wicher",
+        "price": 34.04,
+        "price_before_thrity_days": 34.04,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 45",
+        "name": "Kicia Kocia i \u015bwi\u0119ta. Kolorowanka",
+        "author": null,
+        "price": 8.0,
+        "price_before_thrity_days": 7.99,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 46",
+        "name": "Uwierz w siebie. Ksi\u0105\u017cka, kt\u00f3ra dodaje pewno\u015bci",
+        "author": "Asia Olejarczyk",
+        "price": 14.98,
+        "price_before_thrity_days": 14.49,
+        "product_discount": "+3%"
+      },
+      {
+        "product_rank": "TOP 47",
+        "name": "Jadzia P\u0119telka piecze pierniki",
+        "author": "Barbara Supe\u0142",
+        "price": 17.99,
+        "price_before_thrity_days": 17.49,
+        "product_discount": "+3%"
+      },
+      {
+        "product_rank": "TOP 48",
+        "name": "M\u0105dre bajki",
+        "author": "Agnieszka Antosiewicz",
+        "price": 14.41,
+        "price_before_thrity_days": 13.99,
+        "product_discount": "+3%"
+      },
+      {
+        "product_rank": "TOP 49",
+        "name": "Synek ksi\u0119dza Kaczkowskiego",
+        "author": "Piotr \u017by\u0142ka",
+        "price": 38.27,
+        "price_before_thrity_days": 38.27,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 50",
+        "name": "Samouzdrawianie przez podwy\u017cszanie wibracji",
+        "author": "Rj Spina",
+        "price": 28.33,
+        "price_before_thrity_days": 28.38,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 51",
+        "name": "Encyklopedia z foli\u0105. Ksi\u0119ga cia\u0142a",
+        "author": "Hannah Alice",
+        "price": 30.71,
+        "price_before_thrity_days": 26.25,
+        "product_discount": "+17%"
+      },
+      {
+        "product_rank": "TOP 52",
+        "name": "Nie zacz\u0119\u0142o si\u0119 od ciebie. Jak dziedziczona trauma wp\u0142ywa na to, kim jeste\u015bmy i jak zako\u0144czy\u0107 ten proces",
+        "author": "Mark Wolynn",
+        "price": 30.44,
+        "price_before_thrity_days": 29.75,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 53",
+        "name": "Tylko ona zosta\u0142a",
+        "author": "Riley Sager",
+        "price": 27.22,
+        "price_before_thrity_days": 29.7,
+        "product_discount": "-8%"
+      },
+      {
+        "product_rank": "TOP 54",
+        "name": "48 praw w\u0142adzy",
+        "author": "Robert Greene",
+        "price": 32.26,
+        "price_before_thrity_days": 32.23,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 55",
+        "name": "Niesamowite przygody dziesi\u0119ciu skarpetek (czterech prawych i sze\u015bciu lewych). Tom 1",
+        "author": "Justyna Bednarek",
+        "price": 31.99,
+        "price_before_thrity_days": 29.99,
+        "product_discount": "+7%"
+      },
+      {
+        "product_rank": "TOP 56",
+        "name": "Las. Dotykam, poznaj\u0119",
+        "author": "Anna Gensler",
+        "price": 21.49,
+        "price_before_thrity_days": 21.49,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 57",
+        "name": "W Noc Wigilijn\u0105",
+        "author": "Clement C Moore",
+        "price": 19.15,
+        "price_before_thrity_days": 22.72,
+        "product_discount": "-16%"
+      },
+      {
+        "product_rank": "TOP 58",
+        "name": "Smak gorzkiej czekolady",
+        "author": "Weronika  Ancerowicz",
+        "price": 30.75,
+        "price_before_thrity_days": 29.9,
+        "product_discount": "+3%"
+      },
+      {
+        "product_rank": "TOP 59",
+        "name": "\u015alepn\u0105c od \u015bwiate\u0142",
+        "author": "Jakub \u017bulczyk",
+        "price": 29.38,
+        "price_before_thrity_days": 29.15,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 60",
+        "name": "Tak dzia\u0142a m\u00f3zg. Jak m\u0105drze dba\u0107 o jego funkcjonowanie",
+        "author": "Asia  Podg\u00f3rska",
+        "price": 55.51,
+        "price_before_thrity_days": 49.14,
+        "product_discount": "+13%"
+      }
+    ],
+    [
+      {
+        "product_rank": "TOP 61",
+        "name": "Ciche cuda",
+        "author": "Anna H. Niemczynow",
+        "price": 27.47,
+        "price_before_thrity_days": 26.04,
+        "product_discount": "+5%"
+      },
+      {
+        "product_rank": "TOP 62",
+        "name": "Bezg\u0142os",
+        "author": "Katarzyna Puzy\u0144ska",
+        "price": 33.09,
+        "price_before_thrity_days": 33.64,
+        "product_discount": "-2%"
+      },
+      {
+        "product_rank": "TOP 63",
+        "name": "Human design",
+        "author": "Chetan Parkyn",
+        "price": 51.0,
+        "price_before_thrity_days": 51.56,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 64",
+        "name": "Zima w Przytulnej",
+        "author": "Katarzyna Michalak",
+        "price": 37.32,
+        "price_before_thrity_days": 34.67,
+        "product_discount": "+8%"
+      },
+      {
+        "product_rank": "TOP 65",
+        "name": "Nowe rozkoszne. Polskie przepisy, kt\u00f3re ekscytuj\u0105",
+        "author": "Micha\u0142 Korkosz",
+        "price": 49.91,
+        "price_before_thrity_days": 53.75,
+        "product_discount": "-7%"
+      },
+      {
+        "product_rank": "TOP 66",
+        "name": "Extinguish The Heat. Runda sz\u00f3sta",
+        "author": "P.S. Herytiera Pizgacz",
+        "price": 30.44,
+        "price_before_thrity_days": 29.23,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 67",
+        "name": "Kuku\u0142cze jajo. Saga kryminalna. Tom 11",
+        "author": "Camilla L\u00e4ckberg",
+        "price": 31.13,
+        "price_before_thrity_days": 31.09,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 68",
+        "name": "Extinguish the Heat. Runda pi\u0105ta",
+        "author": "P.S. Herytiera Pizgacz",
+        "price": 29.79,
+        "price_before_thrity_days": 29.79,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 69",
+        "name": "Gdzie si\u0119 zwierz\u0119 spa\u0107 wybierze?",
+        "author": "Marcin Brykczy\u0144ski",
+        "price": 15.99,
+        "price_before_thrity_days": 16.29,
+        "product_discount": "-2%"
+      },
+      {
+        "product_rank": "TOP 70",
+        "name": "Jak zdoby\u0107 przyjaci\u00f3\u0142 i zjedna\u0107 sobie ludzi",
+        "author": "Dale Carnegie",
+        "price": 24.82,
+        "price_before_thrity_days": 23.7,
+        "product_discount": "+5%"
+      },
+      {
+        "product_rank": "TOP 71",
+        "name": "Czytaj z Albikiem. J\u0119zyk angielski. Interaktywna m\u00f3wi\u0105ca ksi\u0105\u017cka",
+        "author": "Heather  McGadie",
+        "price": 73.09,
+        "price_before_thrity_days": 69.99,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 72",
+        "name": "Pakiet Igrzyska \u015bmierci. Tomy 1-4: Igrzyska \u015bmierci, W pier\u015bcieniu ognia, Kosog\u0142os, Ballada ptak\u00f3w i w\u0119\u017cy",
+        "author": "Suzanne Collins",
+        "price": 98.94,
+        "price_before_thrity_days": 98.84,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 73",
+        "name": "For Sure Not You. Westwood Academy. Tom 1",
+        "author": "Weronika  Ancerowicz",
+        "price": 27.1,
+        "price_before_thrity_days": 26.11,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 74",
+        "name": "Najciekawsze bajki przedszkolaka",
+        "author": "Maria Zagni\u0144ska",
+        "price": 10.49,
+        "price_before_thrity_days": 10.49,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 75",
+        "name": "M\u00f3j pierwszy elementarz. Czytamy metod\u0105 sylabow\u0105",
+        "author": "Alicja Karczmarska-Strzebo\u0144ska",
+        "price": 11.94,
+        "price_before_thrity_days": 11.67,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 76",
+        "name": "\u0141\u0105ka. Akademia M\u0105drego Dziecka. Niesamowity spacer",
+        "author": "Emiri Hayashi",
+        "price": 18.28,
+        "price_before_thrity_days": 18.28,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 77",
+        "name": "Maybe You. Westwood Academy. Tom 2",
+        "author": "Weronika  Ancerowicz",
+        "price": 27.19,
+        "price_before_thrity_days": 26.04,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 78",
+        "name": "Dom po drugiej stronie jeziora",
+        "author": "Riley Sager",
+        "price": 25.26,
+        "price_before_thrity_days": 24.7,
+        "product_discount": "+2%"
+      },
+      {
+        "product_rank": "TOP 79",
+        "name": "Czytaj z Albikiem. Piosenki dla dzieci. Interaktywna m\u00f3wi\u0105ca ksi\u0105\u017cka",
+        "author": "Ma\u0142gorzata  Malik-Wiecha",
+        "price": 39.09,
+        "price_before_thrity_days": 31.49,
+        "product_discount": "+24%"
+      },
+      {
+        "product_rank": "TOP 80",
+        "name": "Polska na wojnie",
+        "author": "Zbigniew Parafianowicz",
+        "price": 49.9,
+        "price_before_thrity_days": 40.93,
+        "product_discount": "+22%"
+      },
+      {
+        "product_rank": "TOP 81",
+        "name": "Na uwi\u0119zi",
+        "author": "Katarzyna Bonda",
+        "price": 26.38,
+        "price_before_thrity_days": 28.04,
+        "product_discount": "-6%"
+      },
+      {
+        "product_rank": "TOP 82",
+        "name": "Czytaj z Albikiem. Weso\u0142a nauka. M\u00f3wi\u0105ce pi\u00f3ro z ksi\u0105\u017ck\u0105",
+        "author": null,
+        "price": 280.49,
+        "price_before_thrity_days": 280.49,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 83",
+        "name": "Chrze\u015bcija\u0144stwo. Amoralna religia",
+        "author": "Ireneusz Ziemi\u0144ski",
+        "price": 37.11,
+        "price_before_thrity_days": 35.84,
+        "product_discount": "+4%"
+      },
+      {
+        "product_rank": "TOP 84",
+        "name": "Id\u0105 mr\u00f3wki po brzuszku. Wierszyki do zabaw dla maluszk\u00f3w",
+        "author": "El\u017cbieta Szwajkowska",
+        "price": 22.49,
+        "price_before_thrity_days": 20.29,
+        "product_discount": "+11%"
+      },
+      {
+        "product_rank": "TOP 85",
+        "name": "Pucio i \u0107wiczenia z m\u00f3wienia, czyli nowe s\u0142owa i zdania",
+        "author": "Marta Galewska-Kustra",
+        "price": 39.99,
+        "price_before_thrity_days": 40.99,
+        "product_discount": "-2%"
+      },
+      {
+        "product_rank": "TOP 86",
+        "name": "Osada",
+        "author": "Micha\u0142 \u015amielak",
+        "price": 28.35,
+        "price_before_thrity_days": 28.23,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 87",
+        "name": "\u0141\u0105ka. Dotykam, poznaj\u0119",
+        "author": null,
+        "price": 21.49,
+        "price_before_thrity_days": 21.47,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 88",
+        "name": "Known from Snow",
+        "author": "Vela Szulwi\u0144ska",
+        "price": 31.17,
+        "price_before_thrity_days": 31.44,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 89",
+        "name": "Tak mia\u0142o by\u0107",
+        "author": "Przemek Corso",
+        "price": 34.79,
+        "price_before_thrity_days": 34.53,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 90",
+        "name": "Venom",
+        "author": "Aleksandra Kondraciuk",
+        "price": 33.38,
+        "price_before_thrity_days": 29.05,
+        "product_discount": "+15%"
+      }
+    ],
+    [
+      {
+        "product_rank": "TOP 91",
+        "name": "Despite Your (im)perfections. Dotrzymaj z\u0142o\u017conej mi obietnicy. Flaw(less) . Tom 3",
+        "author": "Marta \u0141ab\u0119cka",
+        "price": 28.02,
+        "price_before_thrity_days": 28.0,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 92",
+        "name": "Nagranie",
+        "author": "Ma\u0142gorzata Falkowska",
+        "price": 28.6,
+        "price_before_thrity_days": 5.9,
+        "product_discount": "+385%"
+      },
+      {
+        "product_rank": "TOP 93",
+        "name": "Dziadek do orzech\u00f3w i \u015bwi\u0105teczne machlojki Mysiego Kr\u00f3la",
+        "author": "Alex T. Smith",
+        "price": 37.14,
+        "price_before_thrity_days": 37.14,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 94",
+        "name": "W\u0119dr\u00f3wka dusz. Tajemnice \u017cycia po \u017cyciu",
+        "author": "Michael Newton",
+        "price": 21.55,
+        "price_before_thrity_days": 21.55,
+        "product_discount": null
+      },
+      {
+        "product_rank": "TOP 95",
+        "name": "Zamiast czeka\u0107, zacznij \u017cy\u0107",
+        "author": "Jan Kaczkowski",
+        "price": 33.06,
+        "price_before_thrity_days": 31.98,
+        "product_discount": "+3%"
+      },
+      {
+        "product_rank": "TOP 96",
+        "name": "Pucio na wsi. \u0106wiczenia rozumienia i m\u00f3wienia dla dzieci",
+        "author": "Marta Galewska-Kustra",
+        "price": 39.99,
+        "price_before_thrity_days": 40.99,
+        "product_discount": "-2%"
+      },
+      {
+        "product_rank": "TOP 97",
+        "name": "W grudniu po po\u0142udniu, czyli troch\u0119 inny kalendarz adwentowy",
+        "author": "Ewelina  W\u0142odarczyk",
+        "price": 21.99,
+        "price_before_thrity_days": 23.19,
+        "product_discount": "-5%"
+      },
+      {
+        "product_rank": "TOP 98",
+        "name": "Krew, kt\u00f3ra nas dzieli",
+        "author": "Edyta Prusinowska",
+        "price": 41.36,
+        "price_before_thrity_days": 38.86,
+        "product_discount": "+6%"
+      },
+      {
+        "product_rank": "TOP 99",
+        "name": "Burn the Hell. Runda czwarta",
+        "author": "P.S. Herytiera Pizgacz",
+        "price": 30.44,
+        "price_before_thrity_days": 31.64,
+        "product_discount": "-4%"
+      },
+      {
+        "product_rank": "TOP 100",
+        "name": "I Wanna Fall. Bright Side. Die. Tom 1",
+        "author": "Aleksandra  Nil",
+        "price": 40.47,
+        "price_before_thrity_days": 33.75,
+        "product_discount": "+20%"
+      }
+    ]
+  ],
+  "count": 4
+}
