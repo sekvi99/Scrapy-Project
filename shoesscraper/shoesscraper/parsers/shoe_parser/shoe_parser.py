@@ -1,12 +1,12 @@
 from dataclasses import dataclass
-from typing import Union
+from typing import List, Union
 
 from scrapy.http import Response
 
-from ...constans import (PRODUCT_DISCROUNTED_PRICE_SELECTOR,
-                         PRODUCT_IS_NEW_SELECTOR, PRODUCT_NAME_SELECTOR,
-                         PRODUCT_PRICE_SELECTOR, PRODUCTS_LIST_SELECTOR)
-from ...items import ScrapCollectionDto, ShoesItemDto
+from ...consts.shoes_consts.constans import (
+    PRODUCT_DISCROUNTED_PRICE_SELECTOR, PRODUCT_IS_NEW_SELECTOR,
+    PRODUCT_NAME_SELECTOR, PRODUCT_PRICE_SELECTOR, PRODUCTS_LIST_SELECTOR)
+from ...items import ShoesItemDto
 from ..abstract_parser import AbstractParser
 
 
@@ -14,7 +14,7 @@ from ..abstract_parser import AbstractParser
 class ShoeParser(AbstractParser):
 
     # * Section public methods
-    def parse(self) -> ScrapCollectionDto[ShoesItemDto]:
+    def parse(self) -> List[ShoesItemDto]:
         items = []
         
         product_list = self.content.css(PRODUCTS_LIST_SELECTOR)
@@ -38,7 +38,7 @@ class ShoeParser(AbstractParser):
                 discount_percent=discount_percent
                 )
             items.append(shoes_item)
-        return ScrapCollectionDto(collection=items, count=len(items))
+        return items
         
     # * Section private methods
     def _extract_text(self, element: Response.body, selector: str) -> Union[str, None]:

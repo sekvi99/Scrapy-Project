@@ -1,0 +1,6507 @@
+{
+  "collection": [
+    [
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie typu bikery",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie na br\u0105zowym obcasie",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sztyblety damskie",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie na s\u0142upku",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki damskie do kolan",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie z zamkiem na cholewce",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wysokie trzewiki damskie z ozdobnym zamkiem na podeszwie",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sztyblety na oryginalnym obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Klasyczne czarne ocieplane trzewiki damskie ze sk\u00f3ry licowej",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane bikery damskie na s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sztyblety damskie w stylu miejskim",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sk\u00f3rzane sztyblety damskie ze sk\u00f3ry licowej",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie na s\u0142upku ze skarpet\u0105 i lakierowan\u0105 obram\u00f3wk\u0105",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie sznurowane kozaki damskie na grubej podeszwie",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane botki damskie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie na s\u0142upku za sk\u00f3ry licowej",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane bikery damskie z klamrami",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie nad kolano z wysokim obcasem",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki typu kowbojki ze sk\u00f3ry licowej",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie botki damskie ze sk\u00f3ry licowej",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kowbojki na wysokim obcasie",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe botki damskie na oryginalnym obcasie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne jesienne sztyblety damskie w stylu miejskim",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne kozaki damskie z cholewk\u0105 do kolana",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki oficerki damskie",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wieczorowe cz\u00f3\u0142enka damskie z kryszta\u0142kami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie typu sztyblety z \u0142a\u0144cuszkiem",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne bikery damskie z odczepianym \u0142a\u0144cuszkiem",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe botki damskie z ociepleniem",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka na masywnym obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie z lakierowan\u0105 faktur\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe kozaki damskie na obcasie z dwoiny welurowej",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane trzewiki damskie z ozdobion\u0105 podeszw\u0105",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne trzewiki damskie z ozdobnym z\u0142otym zamkiem na podeszwie",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne bikery z \u0142\u0105czonych sk\u00f3r na obcasie",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sk\u00f3rzane botki damskie na obcasie typu s\u0142upek",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wysokie botki damskie z lakierowan\u0105 wstawk\u0105",
+        "price": 359.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sztyblety w formie kozak\u00f3w na obcasie",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Eleganckie sk\u00f3rzane botki damskie w kolorze czarnym",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie na masywnej podeszwie",
+        "price": 275.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne kozaki damskie ze sk\u00f3ry licowej z metalow\u0105 ozdob\u0105",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki damskie typu bikery ze srebrnymi klamrami",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie ze sk\u00f3ry licowej z metalow\u0105 ozdob\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie sztyblety ze sk\u00f3ry licowej",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane trzewiki damskie na s\u0142upku",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne workery damskie ze skarpet\u0105",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane kozaki damskie na szerokim obcasie",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki typu bikery z nitami na cholewce",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne bikery ze srebrnymi nitami",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane bikery damskie z \u0107wiekami na cholewce",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane botki damskie na solidnym s\u0142upku",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie na solidnym obcasie",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Klasyczne sztyblety damskie na obcasie w kolorze czarnym",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie na s\u0142upku ze z\u0142otym \u0142a\u0144cuchem",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki damskie na masywnym s\u0142upku",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Czarne damskie sztyblety z dwoiny welurowej z br\u0105zowym obcasem",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe botki damskie na szpilce idealne na jesie\u0144",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie zapinane na zamek",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe trzewiki damskie sznurowane",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Sk\u00f3rzane oficerki damskie w kolorze br\u0105zowym",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "P\u00f3\u0142buty trekkingowe w kolorze czarnym",
+        "price": 263.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Br\u0105zowe botki damskie na grubym s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie na szerokim obcasie",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Zjawiskowe czarne szpilki z weluru foliowanego",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane kozaki damskie na obcasie",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny ze sk\u00f3ry licowej ze z\u0142ot\u0105 ozdob\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane mokasyny damskie penny loafers",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u0142askie sztyblety damskie na p\u0142askiej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie na wysokim s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne bikery damskie z po\u0142\u0105czenia sk\u00f3ry licowej i lycry",
+        "price": 335.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe wysokie sztyblety damskie ze sk\u00f3ry licowej",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie na solidnym obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wysokie sk\u00f3rzane mokasyny damskie z kwadratowym noskiem",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe mokasyny damskie z kwadratowym noskiem",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe ocieplane trzewiki damskie ze sk\u00f3ry licowej",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie na wysokim obcasie",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie botki damskie z \u0142a\u0144cuchem wok\u00f3\u0142 kostki",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe kozaki za kolano",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wysokie botki damskie typu sztyblety",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Br\u0105zowe bikery damskie ocieplane naturaln\u0105 we\u0142n\u0105",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne bikery damskie w stylu miejskim",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sztyblety damskie z kolekcji CODE30",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne botki damskie na s\u0142upku w modowym wydaniu",
+        "price": 399.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne mokasyny damskie na wysokim obcasie i podeszwie z bie\u017cnikiem",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie czarne kozaki damskie na obcasie",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane trzewiki damskie na jesie\u0144",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sztyblety damskie z wysok\u0105 cholewk\u0105",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne sznurowane trzewiki damskie na wysokim obcasie",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sk\u00f3rzane trzewiki damskie z ociepleniem",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne jesienne bikery damskie z wysok\u0105 cholewk\u0105",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne sk\u00f3rzane bikery damskie z klamrami",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Zielone trzewiki damskie z ociepleniem",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane botki ze sk\u00f3ry licowej i dzianiny",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sk\u00f3rzane workery damskie z we\u0142nian\u0105 podszewk\u0105",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane sztyblety damskie z wysok\u0105 cholewk\u0105",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne jesienne kozaki typu biker",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Br\u0105zowe kowbojki  na charakterystycznym obcasie",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne trampki damskie na wysokiej platformie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane cz\u00f3\u0142enka damskie na wysokiej szpilce",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane cz\u00f3\u0142enka damskie z noskiem w szpic",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie na grubej podeszwie z ozdobnym \u0142a\u0144cuszkiem",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka na s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie w stylu formal",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie zapinane na zamek",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe mokasyny damskie ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sztyblety na obcasie",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Br\u0105zowe kozaki damskie ze sk\u00f3ry licowej",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne szpilki damskie na wysokim obcasie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne trzewiki damskie ocieplane dzianin\u0105 futerkow\u0105",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Czarne sk\u00f3rzane botki na wysokim s\u0142upku ze z\u0142otym \u0142a\u0144cuchem",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Zielone bikery damskie na stabilnym obcasie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie ze z\u0142ot\u0105 ozdob\u0105",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sneakersy damskie z \u0142\u0105czonych materia\u0142\u00f3w",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe mokasyny penny loafers na s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie ze sk\u00f3ry licowej ze z\u0142otymi elementami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klasyczne mokasyny damskie ze sk\u00f3ry licowej",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wsuwane p\u00f3\u0142buty damskie z oryginaln\u0105 ozdob\u0105",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane szpilki damskie na platformie",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka damskie na wysokim s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie na p\u0142askiej podeszwie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie z weluru",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kowbojki z nisk\u0105 cholewk\u0105",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane mokasyny damskie z metalow\u0105 ozdob\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane cz\u00f3\u0142enka damskie z metalow\u0105 ozdob\u0105",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie na wy\u017cszej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe mokasyny damskie ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sznurowane p\u00f3\u0142buty damskie z g\u0142adkiej sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie z czarn\u0105 ozdob\u0105",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wsuwane p\u00f3\u0142buty damskie z \u0142\u0105czonych sk\u00f3r",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka typu Mary Jane",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sztyblety damskie w stylu urban",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Wysokie trzewiki damskie w kolorze ciemnego be\u017cu",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Br\u0105zowe sztyblety damskie na jesie\u0144",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie botki damskie na szpilce",
+        "price": 399.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne wysokie sztyblety damskie ze sk\u00f3ry licowej",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki damskie z elastycznymi wstawkami",
+        "price": 461.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie na koturnie",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Botki damskie typu sztyblety w kolorze popielatym",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe jesienne botki damskie na zamek",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe botki damskie",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane trzewiki damskie z dwoiny welurowej",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Be\u017cowe trzewiki damskie na masywnej podeszwie",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne oryginalne bikery na wysokim s\u0142upku",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe ocieplane sztyblety damskie z nubuku",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe mokasyny damskie ze sk\u00f3ry licowej na s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Oryginalne zielone trzewiki damskie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Wygodne br\u0105zowe mokasyny damskie z dwoiny welurowej",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe cz\u00f3\u0142enka na wysokim obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie z ozdobnym szerokim \u0142a\u0144cuchem",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sztyblety damskie na wysokim s\u0142upku",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne botki za kostk\u0119 na szerokim s\u0142upku",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie na s\u0142upku z noskiem w szpic",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe ca\u0142oroczne sztyblety damskie",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne wsuwane botki damskie z ociepleniem",
+        "price": 383.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne botki damskie ocieplane sk\u00f3r\u0105 owcz\u0105",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Zielone sztyblety damskie na obcasie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane p\u00f3\u0142buty z paskami na podbiciu",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Zielone mokasyny damskie na s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe sneakersy damskie z \u0142\u0105czonych materia\u0142\u00f3w",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka Mary Jane na wysokim obcasie",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie na wysokim s\u0142upku",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sk\u00f3rzane lordsy damskie na p\u0142askiej podeszwie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie na szerokim obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie be\u017cowe wi\u0105zane kozaki damskie",
+        "price": 395.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      }
+    ],
+    [
+      {
+        "name": "Br\u0105zowe botki damskie sztyblety na s\u0142upku",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe ocieplane trzewiki damskie ze sk\u00f3ry licowej",
+        "price": 335.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Workery damskie w czarnej ods\u0142onie",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne klasyczne cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane botki damskie z pikowan\u0105 cholewk\u0105",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie z odczepianym \u0142a\u0144cuchem na masywnej podeszwie",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Be\u017cowe botki damskie na podeszwie z kontrastow\u0105 wstawk\u0105",
+        "price": 275.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Be\u017cowe trzewiki ze sk\u00f3ry licowej na obcasie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sztyblety z dwoiny welurowej z odczepianym ozdobnym \u0142a\u0144cuchem",
+        "price": 335.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne wsuwane botki damskie ze sk\u00f3ry licowej",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Jasnobr\u0105zowe kozaki damskie na s\u0142upku",
+        "price": 461.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne botki damskie na s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie sk\u00f3rzane botki damskie ze sk\u00f3ry licowej",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne bikery damskie ze sk\u00f3ry welurowej",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Jasnobr\u0105zowe trzewiki damskie typu workery ze skarpet\u0105",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie PREMIUM z t\u0142oczeniem w sk\u00f3r\u0119 krokodyla",
+        "price": 999.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sznurowane trzewiki damskie z bia\u0142\u0105 podeszw\u0105",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Be\u017cowe trzewiki damskie z ko\u017cuchem na s\u0142upku",
+        "price": 275.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne trzewiki damskie z weluru i sk\u00f3ry licowej",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie sztyblety na wysokiej podeszwie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne eleganckie botki damskie na zim\u0119",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie na koturnie",
+        "price": 209.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne loafersy damskie ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sznurowane botki damskie z ociepleniem",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne botki damskie na szpilce z ozdobnym \u0142a\u0144cuszkiem",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie na obcasie w formie s\u0142upka",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne elastyczne botki damskie zapinane na zamek",
+        "price": 399.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Eleganckie lakierowane botki na szpilce",
+        "price": 384.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Br\u0105zowe trzewiki damskie bikery z linii Code30",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Eleganckie jasnobr\u0105zowe botki na szpilce",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne botki damskie na klocku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe eleganckie botki na obcasie",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne wysokie kozaki damskie typu bikery",
+        "price": 461.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne botki damskie na oryginalnym s\u0142upku",
+        "price": 384.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne jesienne botki damskie w stylu urban",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne welurowe kozaki damskie jesienne",
+        "price": 527.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe botki damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne trzewiki damskie ze sk\u00f3ry licowej",
+        "price": 383.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne pikowane botki damskie na szpilce",
+        "price": 399.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sztyblety damskie ze sk\u00f3ry naturalnej",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Ciemnobr\u0105zowe kozaki damskie z wstawk\u0105 z boku cholewki",
+        "price": 527.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Br\u0105zowe kozaki damskie sztyblety z ja\u015bniejsz\u0105 podeszw\u0105 na obcasie",
+        "price": 359.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Zielone wygodne workery damskie za kostk\u0119",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne jesienne bikery damskie z dwoiny welurowej i stretchu",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Br\u0105zowe ocieplane botki damskie ze sk\u00f3ry licowej",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Stylowe botki damskie na wysokim s\u0142upku ze sk\u00f3ry licowej i welurowej",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klasyczne cz\u00f3\u0142enka damskie welurowe",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Zjawiskowe z\u0142ote cz\u00f3\u0142enka damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sztyblety damskie PREMIUM z metalowymi ozdobami na nosku",
+        "price": 799.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne casualowe trampki damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Stylowe botki damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie na szpilce z wysok\u0105 cholewk\u0105",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe botki na szpilce",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne zimowe kozaki damskie na traktorze",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sneakersy damskie z ozdobnym zamkiem",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      }
+    ],
+    [
+      {
+        "name": "Czarne botki damskie na niskim obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie z t\u0142oczonej sk\u00f3ry zapisane na zamek",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kowbojki damskie na jesie\u0144",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe mokasyny damskie ze sk\u00f3ry lakierowanej",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane p\u00f3\u0142buty damskie z linii comfort",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe p\u00f3\u0142buty damskie w nowoczesnym stylu",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Nowoczesne be\u017cowe trzewiki damskie z wi\u0105zan\u0105 cholewk\u0105",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 11
+      },
+      {
+        "name": "Czarno-amarantowe wysokie trekkingi damskie",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne trzewiki damskie na obcasie ocieplane dzianin\u0105 futerkow\u0105",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne lakierowane sztyblety w stylu urban",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe kozaki damskie na stabilnym s\u0142upku",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne kozaki damskie oficerki z blaszk\u0105 na podeszwie",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne trzewiki damskie na obcasie z cholewk\u0105 skarpet\u0105",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne lakierowane botki damskie na obcasie",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne lakierowane baleriny damskie",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie z dwoiny welurowej na obcasie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe eleganckie cz\u00f3\u0142enka damskie na wysokiej szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane p\u00f3\u0142buty damskie z metalow\u0105 ozdob\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie cz\u00f3\u0142enka damskie w kolorze czarnym ze z\u0142otym obcasem",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Baleriny damskie z\u0142oty metalik",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote cz\u00f3\u0142enka damskie na obcasie typu kaczuszka",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote cz\u00f3\u0142enka damskie na niskim s\u0142upku",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie cz\u00f3\u0142enka damskie lakierowane",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe damskie mokasyny z dwoiny welurowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote sk\u00f3rzane szpilki na wysokim obcasie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie na niskim obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane sneakersy damskie na wysokiej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane baleriny damskie z linii Comfort",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie jasnobr\u0105zowe mokasyny ze sk\u00f3ry licowej",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Delikatne be\u017cowo-z\u0142ote trampki damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie be\u017cowe cz\u00f3\u0142enka damskie na szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie cz\u00f3\u0142enka w kolorze czerwonym na szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lordsy damskie na p\u0142askiej podeszwie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Delikatne be\u017cowe sneakersy damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie cz\u00f3\u0142enka damskie na szpilce",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka ze sk\u00f3ry welurowej",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe lakierowane cz\u00f3\u0142enka damskie na obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Srebrne cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej foliowanej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie lakierowane szpilki damskie czarne",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe eleganckie cz\u00f3\u0142enka damskie z lakierowanej sk\u00f3ry",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie be\u017cowe cz\u00f3\u0142enka damskie na szpilce",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czerwone szpilki ze sk\u00f3ry naturalnej licowej",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie z wysok\u0105 szpilk\u0105",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote baleriny na obcasie z noskiem w szpic",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Stylowe czerwone cz\u00f3\u0142enka z weluru",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki damskie na wysokim masywnym obcasie",
+        "price": 527.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane kozaki damskie na s\u0142upku",
+        "price": 527.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Popielate botki damskie typu sztyblety",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Wysokie lakierowane mokasyny damskie na s\u0142upku",
+        "price": 384.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane cz\u00f3\u0142enka damskie na niskim obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe eleganckie cz\u00f3\u0142enka damskie na smuk\u0142ej szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka damskie ze z\u0142otym fantazyjnym obcasem",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne niskie kowbojki damskie",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie sk\u00f3rzane be\u017cowe cz\u00f3\u0142enka z odkryt\u0105 pi\u0119t\u0105",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne szykowne botki damskie PREMIUM ze sk\u00f3ry licowej",
+        "price": 799.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe botki damskie z elementami t\u0142oczonej w zwierz\u0119ce wzory sk\u00f3r\u0119",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe kowbojki damskie ze sk\u00f3ry welurowej",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Ocieplane botki damskie w kolorze be\u017cowym",
+        "price": 335.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne mokasyny damskie ze sk\u00f3ry florentic ze z\u0142ot\u0105 ozdob\u0105",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne botki damskie na s\u0142upku z dwoiny welurowej",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie z wymienn\u0105 ozdob\u0105",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne sk\u00f3rzane mokasyny damskie na obcasie ze z\u0142ot\u0105 metalow\u0105 ozdob\u0105",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe eleganckie cz\u00f3\u0142enka damskie na szpilce z paskiem oplataj\u0105cym stop\u0119",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne lakierowane p\u00f3\u0142buty damskie sznurowane",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne trzewiki damskie na masywnej podeszwie ze z\u0142otymi akcentami",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie na s\u0142upku",
+        "price": 303.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Jasnobr\u0105zowe welurowe botki damskie na s\u0142upku",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kozaki sztyblety z czerwon\u0105 podeszw\u0105 na obcasie",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 57
+      },
+      {
+        "name": "Wysokie kozaki muszkieterki w kolorze jasnego br\u0105zu",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne botki damskie na obcasie z cieniowan\u0105 podeszw\u0105",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne kozaki damskie",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe wsuwane sztyblety damskie",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne ocieplane bikery damskie na szerokim obcasie",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie na s\u0142upku",
+        "price": 463.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Z\u0142ote metaliczne sanda\u0142y damskie na obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Delikatne sanda\u0142y damskie w kolorze z\u0142otym",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki damskie z ociepleniem",
+        "price": 699.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne ocieplane kozaki damskie na podeszwie z bie\u017cnikiem",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "R\u00f3\u017cowe cz\u00f3\u0142enka damskie z odkryt\u0105 pi\u0119t\u0105 z lakierowanej sk\u00f3ry",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Srebrne baleriny damskie a\u017curowane",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Fioletowe cz\u00f3\u0142enka damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sk\u00f3rzane mokasyny damskie ze z\u0142ot\u0105 ozdob\u0105",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie be\u017cowe cz\u00f3\u0142enka damskie na masywnym s\u0142upku",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka Mary Jane z zapi\u0119ciem na klamerk\u0119",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e wygodne baleriny damskie ze sk\u00f3ry licowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kozaki damskie na wysokiej podeszwie",
+        "price": 359.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne kozaki damskie typu oficerki",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote a\u017curowe damskie baleriny",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie zapinane na zamek",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Niebieskie cz\u00f3\u0142enka damskie z lakierowanej sk\u00f3ry",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe mokasyny damskie z ozdobnymi kryszta\u0142ami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane baleriny z odkryt\u0105 pi\u0119t\u0105 i noskiem w szpic",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "A\u017curowe baleriny damskie w kolorze br\u0105zowym",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe baleriny damskie a\u017curowe",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Kobiece a\u017curowe baleriny damskie w kolorze be\u017cowym",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe kowbojki damskie nad kostk\u0119",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie typu car shoes",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie z kryszta\u0142ow\u0105 aplikacj\u0105",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe mokasyny damskie typu driving shoes",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane p\u00f3\u0142buty damskie na grubej podeszwie",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Zielone botki damskie na stabilnym s\u0142upku",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe botki damskie na szerokim s\u0142upku",
+        "price": 329.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie na p\u0142askiej podeszwie",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne eleganckie p\u00f3\u0142buty damskie sznurowane",
+        "price": 303.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe mokasyny damskie na grubej podeszwie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe botki damskie typu sztyblety ze z\u0142otym \u0142a\u0144cuszkiem",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      }
+    ],
+    [
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie z d\u0142ugim paskiem oplataj\u0105cym kostk\u0119",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Jasnobr\u0105zowe p\u00f3\u0142buty damskie z metalow\u0105 ozdob\u0105 horsebit",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka damskie z przeplatanym paskiem",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne wieczorowe cz\u00f3\u0142enka damskie z \u0142\u0105czonych sk\u00f3r",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Jasnobr\u0105zowe damskie mokasyny ze sk\u00f3ry licowej",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne creepersy damskie z lakierowanej sk\u00f3ry",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Wygodne czarne p\u00f3\u0142buty damskie w modowym wydaniu",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne lakierowane trzewiki damskie typu biker boots",
+        "price": 335.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sneakersy damskie ze z\u0142otymi elementami",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "A\u017curowe baleriny damskie srebrne",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sztyblety damskie na s\u0142upkowym obcasie",
+        "price": 351.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe mokasyny car shoes z dwoiny welurowej",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sneakersy damskie w kolorze bia\u0142o-szaro-be\u017cowym",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sztyblety damskie na czerwonej podeszwie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Z\u0142ote loafersy damskie z linii Comfort",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe lakierowane cz\u00f3\u0142enka damskie Mary Jane",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne oryginalne botki damskie na p\u0142askiej podeszwie",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne klapki damskie na szerokim obcasie z ozdobnym t\u0142oczeniem",
+        "price": 275.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czerwone sk\u00f3rzane szpilki z odkryt\u0105 pi\u0119t\u0105",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne ponadczasowe baleriny damskie ze sk\u00f3ry licowej",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Szykowne czarne cz\u00f3\u0142enka na szpilce z po\u0142\u0105czenia sk\u00f3ry welurowej i lakierowanej",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane cz\u00f3\u0142enka damskie na szpilce ze z\u0142otym \u0142a\u0144cuchem",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane mokasyny damskie na podwy\u017cszonej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne masywne cz\u00f3\u0142enka damskie Mary Jane",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie czerwone cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie na wysokiej szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie w stylu urban",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe botki damskie z ozdobnymi klamrami",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Botki damskie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie czerwone cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne szpilki damskie z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Zjawiskowe z\u0142ote cz\u00f3\u0142enka damskie na szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe oficerki damskie na zim\u0119",
+        "price": 527.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne zimowe botki damskie ze sk\u00f3ry licowej oraz lakierowanej",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne kowbojki damskie z dwoiny welurowej na obcasie",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sneakersy damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe trzewiki damskie z dwoiny welurowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki z noskiem w szpic i obcasem w kszta\u0142cie klepsydry",
+        "price": 405.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne mokasyny damskie z metalow\u0105 ozdob\u0105",
+        "price": 215.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka wieczorowe z ozdob\u0105 na przodzie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sznurowane p\u00f3\u0142buty damskie na wysokiej podeszwie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe kozaki damskie typu kowbojki",
+        "price": 479.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne lakierowane loafersy damskie na platformie",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Granatowe cz\u00f3\u0142enka damskie na koturnie",
+        "price": 209.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie na koturnie",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne wsuwane p\u00f3\u0142buty damskie ze sk\u00f3ry lakierowanej",
+        "price": 303.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sneakersy damskie na wysokiej podeszwie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "Czarne sznurowane trzewiki damskie na podeszwie z du\u017cym bie\u017cnikiem",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne trampki damskie z metalowymi zdobieniami",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe trzewiki damskie bikery ze sk\u00f3ry welurowej",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Awangardowe czarne szpilki damskie z weluru",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie na masywnym obcasie",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki ze skarpet\u0105",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na niskim obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe trzewiki damskie z dwoiny welurowej na s\u0142upku",
+        "price": 307.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane mokasyny damskie na s\u0142upku ze z\u0142ot\u0105 ozdob\u0105",
+        "price": 439.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Srebrne cz\u00f3\u0142enka damskie na niskim obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Eleganckie srebrne sanda\u0142y damskie na s\u0142upku",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne zimowe trzewiki damskie trekkingowe z ociepleniem",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne kozaki damskie PREMIUM z cholewk\u0105 do kolana",
+        "price": 999.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie PREMIUM z \u0142\u0105czonych sk\u00f3r i z metalow\u0105 ozdob\u0105",
+        "price": 799.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne botki damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sk\u00f3rzane trampki damskie ze z\u0142otymi akcentami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe mokasyny damskie ze sk\u00f3ry licowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe cz\u00f3\u0142enka z noskiem w szpic",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe botki damskie na obcasie z ozdob\u0105 dooko\u0142a cholewki",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe kowbojki damskie z przeszyciami na cholewce",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe botki typu kowbojki z ozdobnymi przeszyciami na cholewce",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e trampki z szarymi elementami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e klasyczne trampki damskie ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czerwone klasyczne cz\u00f3\u0142enka damskie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe niskie kowbojki damskie na obcasie",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe sk\u00f3rzane loafersy damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wygodne, sk\u00f3rzane trzewiki damskie granatowe",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe botki damskie z ukryt\u0105 koturn\u0105",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na szpilce",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie cz\u00f3\u0142enka na niskim obcasie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie czerwone cz\u00f3\u0142enka damskie na obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe wsuwane botki damskie z ozdobnymi klamrami",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie trzewiki damskie w alternatywnym stylu",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne eleganckie baleriny damskie na obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe botki damskie z ukryt\u0105 koturn\u0105",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne trampki damskie z t\u0142oczeniem wzoru krokodyla",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Szykowne welurowe cz\u00f3\u0142enka damskie w kolorze czarnym",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "R\u00f3\u017cowe szpilki ze sk\u00f3ry welurowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wsuwane botki damskie w kolorze br\u0105zowym",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie na wysokiej platformie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne lakierowane p\u00f3\u0142buty damskie",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Delikatne cz\u00f3\u0142enka damskie na s\u0142upku w kolorze be\u017cowym",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "Czarne bikery damskie ze sk\u00f3ry licowej",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne wysokie muszkieterki damskie ze sk\u00f3ry licowej",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie na niskim s\u0142upku",
+        "price": 303.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne eleganckie baleriny z weluru",
+        "price": 209.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne botki damskie na szerokim obcasie z czerwon\u0105 podeszw\u0105",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Czarne ocieplane trzewiki damskie na s\u0142upku",
+        "price": 287.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Be\u017cowe botki damskie typu sztyblety z ciekawym bie\u017cnikiem",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane lordsy damskie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie na wysokim s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie ze srebrn\u0105 ozdob\u0105 na obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e trampki damskie z ozdobnymi srebrnymi elementami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sneakersy damskie ze z\u0142otym akcentem z ty\u0142u",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe mokasyny damskie w stylu miejskim na obcasie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie na szpilce",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie be\u017cowe mokasyny damskie na obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Lakierowane be\u017cowe cz\u00f3\u0142enka damskie na szerokim obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe eleganckie szpilki ze z\u0142ot\u0105 ozdob\u0105 na nosku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sk\u00f3rzane sneakersy damskie na podwy\u017cszonej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Trampki damskie na platformie w bia\u0142ej ods\u0142onie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Klasyczne bia\u0142e trampki damskie ze sk\u00f3ry licowej",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e trampki damskie z be\u017cowymi akcentami",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sneakersy damskie ze srebrnymi wstawkami",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe lakierowane cz\u00f3\u0142enka damskie na wysokim s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sztyblety damskie z cholewk\u0105 ponad kostk\u0119",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Be\u017cowe sk\u00f3rzane baleriny damskie",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe mokasyny damskie na grubej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e trampki damskie z metalowymi ozdobnymi elementami",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e p\u00f3\u0142buty damskie z dziurkowanym logo",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe trzewiki damskie z dwoiny welurowej na grubej podeszwie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Lekkie be\u017cowe lordsy damskie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sneakersy damskie na podwy\u017cszonej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sneakersy damskie ze z\u0142otymi elementami",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka na s\u0142upku",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe mokasyny damskie na obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie be\u017cowe cz\u00f3\u0142enka damskie na szpilce",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "R\u00f3\u017cowe baleriny z kokard\u0105",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u00f3\u0142buty damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sportowe bia\u0142e p\u00f3\u0142buty damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie baleriny damskie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wsuwane botki damskie",
+        "price": 335.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane cz\u00f3\u0142enka damskie na niskim obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane cz\u00f3\u0142enka damskie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Koralowe baleriny damskie z ozdobn\u0105 kokardk\u0105",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka na stabilnym obcasie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sneakersy damskie z szarymi elementami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e trampki damskie ze sk\u00f3ry licowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowo-czarne trzewiki trekkingowe dla kobiet",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Fioletowe cz\u00f3\u0142enka damskie na wysokiej szpilce",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Kolorowe lordsy damskie w ozdobny print",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne baleriny na obcasie z b\u0142yszcz\u0105c\u0105 ozdob\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie z naturalnej sk\u00f3ry",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie z metalow\u0105 ozdob\u0105 horsebit",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie be\u017cowe cz\u00f3\u0142enka z cieniutkim paskiem",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe cz\u00f3\u0142enka damskie z noskiem w szpic",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "R\u00f3\u017cowe lordsy damskie ze sk\u00f3ry welurowej - LIMITED EDITION",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnor\u00f3\u017cowe mokasyny damskie z chwostami",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Lekkie bia\u0142e p\u00f3\u0142buty damskie z ozdobn\u0105 podeszw\u0105",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Czerwone szpilki damskie ze sk\u00f3ry licowej",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czerwone szpilki damskie ze sk\u00f3ry licowej z ozdobnym kryszta\u0142kiem",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Urocze sznurowane sneakersy damskie w kolorze bia\u0142o-be\u017cowym",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne damskie p\u00f3\u0142buty ze sk\u00f3ry licowej",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sk\u00f3rzane mokasyny damskie na masywnej podeszwie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Klasyczne be\u017cowe cz\u00f3\u0142enka z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e mokasyny damskie z kolorowymi fr\u0119dzelkami",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 33
+      },
+      {
+        "name": "Czerwone cz\u00f3\u0142enka z lakierowanej sk\u00f3ry",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y ze z\u0142ot\u0105 ozdob\u0105 w postaci \u0142a\u0144cucha",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Oryginalne be\u017cowe klapki damskie ze sk\u00f3ry licowej",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na smuk\u0142ej wysokiej szpilce",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y na obcasie z przeplatanymi paskami",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote klapki damskie na wysokiej koturnie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Srebrne klapki damskie na koturnie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Zjawiskowe srebrne sanda\u0142y damskie na obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klasyczne sanda\u0142y damskie na obcasie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sk\u00f3rzane be\u017cowe mokasyny damskie z \u0142a\u0144cuchem",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne mokasyny damskie na masywnym obcasie",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z kolorowymi kryszta\u0142kami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne baleriny damskie ze sk\u00f3ry licowej",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sk\u00f3rzane sneakersy damskie w kolorze be\u017cowym",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Czarne klasyczne baleriny damskie ze sk\u00f3ry licowej",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote sanda\u0142y damskie na ozdobnym obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na wysokiej szpilce",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Zjawiskowe srebrne sk\u00f3rzane sanda\u0142y na obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne bikery damskie na grubej podeszwie",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne bikery damskie ze sk\u00f3ry licowej na grubej podeszwie",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czerwone cz\u00f3\u0142enka damskie na szpilce z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Jasnobr\u0105zowe botki damskie typu kowbojki",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane trzewiki damskie nad kostk\u0119",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Zielone mokasyny damskie z dwoiny welurowej w stylu miejskim",
+        "price": 265.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane trampki damskie z perforowanym logo",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Be\u017cowe sztyblety damskie z dwoiny welurowej",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 3
+      },
+      {
+        "name": "Sk\u00f3rzane lordsy damskie w c\u0119tki",
+        "price": 303.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Be\u017cowe sznurowane trzewiki damskie z linii COMFORT",
+        "price": 215.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Czarne sk\u00f3rzane mokasyny damskie z metalow\u0105 ozdob\u0105",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Jasnobr\u0105zowe designerskie sztyblety z ciekaw\u0105 podeszw\u0105",
+        "price": 275.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Jasnobr\u0105zowe sanda\u0142y damskie na masywnej podeszwie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wysokie klapki damskie na br\u0105zowej podeszwie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie ze sk\u00f3ry licowej",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe klapki damskie na obcasie",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane sanda\u0142y damskie na wysokim masywnym obcasie",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie be\u017cowe sanda\u0142y damskie na obcasie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y na obcasie z wi\u0105zaniem wok\u00f3\u0142 kostki",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z zapi\u0119ciem na rzepy ze sk\u00f3ry licowej",
+        "price": 659.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe klapki ze sk\u00f3ry licowej na masywnej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie z odkryt\u0105 pi\u0119t\u0105 na szerokim s\u0142upku",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe klapki na obcasie z przeplatanymi paskami",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie z plecionymi pikowanymi paskami",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie z zapi\u0119ciem na rzep",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote sanda\u0142y damskie na p\u0142askiej podeszwie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sk\u00f3rzane z\u0142ote sanda\u0142y damskie na p\u0142askiej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sanda\u0142y damskie na bia\u0142ej podeszwie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarno-z\u0142ote sanda\u0142y damskie z przeplatanymi paskami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wygodne klapki damskie ze z\u0142otymi paskami",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z szerokimi paskami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Klapki damskie na obcasie w kolorze z\u0142oty metalik",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e klapki damskie ze sk\u00f3ry licowej z metalow\u0105 ozdob\u0105",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie w stylu miejskim",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na platformie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie z przeplatanymi paskami",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki na obcasie z krzy\u017cuj\u0105cymi si\u0119 paskami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sanda\u0142y damskie na koturnie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Stylowe sanda\u0142y damskie na koturnie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y z dwoiny welurowej na koturnie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y na masywnym obcasie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie na szerokim s\u0142upku",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z dwoiny na obcasie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote eleganckie sanda\u0142y damskie na obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie na obcasie",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne lakierowane klapki damskie z oryginalnym obcasem",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Oryginalne be\u017cowe sanda\u0142y na szpilce ze srebrnymi przetarciami",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Masywne be\u017cowe sanda\u0142y damskie z weluru",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klapki damskie na grubej podeszwie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane p\u00f3\u0142buty damskie na masywnej podeszwie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane trzewiki damskie ze srebrnym \u0142a\u0144cuchem",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne lakierowane sanda\u0142y damskie na oryginalnym obcasie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Be\u017cowe klapki damskie na s\u0142upku",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne masywne sanda\u0142y damskie z szerokimi paskami",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sk\u00f3rzane sanda\u0142y damskie na klocku w kolorze jasnego br\u0105zu",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe klapki z przeplatanymi paskami",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e sanda\u0142y damskie na p\u0142askiej br\u0105zowej podeszwie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klapki damskie z przeplatanymi paskami",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sanda\u0142y damskie z zakryt\u0105 pi\u0119t\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klapki damskie na obcasie w stylu miejskim",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe klapki damskie na koturnie z korka",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie w stylu miejskim",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Oryginalne be\u017cowe klapki damskie na obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sk\u00f3rzane sanda\u0142y damskie na lato",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Bia\u0142e klapki damskie na obcasie typu klocek",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe sanda\u0142y damskie na koturnie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe sanda\u0142y damskie na s\u0142upku",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie z przeplatanymi paskami",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie na obcasie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klapki damskie na koturnie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe klapki damskie z metalowym zdobieniem na pasku",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe sanda\u0142y damskie na szpilce",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na szpilce",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne welurowe sanda\u0142y damskie na s\u0142upku",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie na obcasie",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Delikatne be\u017cowe sanda\u0142y damskie z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne trzewiki damskie w sportowym stylu",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne sznurowane p\u00f3\u0142buty damskie na wysokiej platformie",
+        "price": 303.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne ocieplane trampki damskie RELAKS",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne \u015bniegowce RELAKS na grubej podeszwie",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne \u015bniegowce RELAKS ze z\u0142otymi elementami",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS ciep\u0142e be\u017cowe trzewiki damskie z bia\u0142ym ko\u017cuszkiem",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne \u015bniegowce damskie RELAKS z podszewk\u0105 ze sk\u00f3ry owczej",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne masywne sanda\u0142y damskie na obcasie",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote klapki damskie na ciemnej p\u0142askiej podeszwie",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u0142askie sanda\u0142y damskie z ozdobnym t\u0142oczeniem",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne eleganckie sanda\u0142y z metalow\u0105 ozdob\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sanda\u0142y damskie w stylu urban",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie w stylu miejskim",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wygodne czarne sanda\u0142y damskie na podwy\u017cszonej podeszwie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klapki damskie",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote sanda\u0142y damskie na p\u0142askiej podeszwie",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie z zamkiem z przodu",
+        "price": 384.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne botki damskie z ozdobami charakterystycznymi dla mokasyn\u00f3w",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Bia\u0142e sanda\u0142y damskie na masywnym obcasie",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czerwone sanda\u0142y damskie ze sk\u00f3ry licowej na platformie",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sanda\u0142y damskie ze srebrnymi klamrami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe klapki damskie ze z\u0142otymi k\u00f3\u0142kami na pasku",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne masywne sanda\u0142y damskie z weluru",
+        "price": 479.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z zakryt\u0105 pi\u0119t\u0105 i plecionymi paskami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sanda\u0142y damskie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie na klocku",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sanda\u0142y damskie z otwart\u0105 pi\u0119t\u0105 oraz ozdobnym obcasem",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Granatowe sanda\u0142y damskie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Eleganckie jasnor\u00f3\u017cowe sanda\u0142y damskie na obcasie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z krzy\u017cuj\u0105cymi si\u0119 paskami",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wygodne sanda\u0142y damskie w stylu casual",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Sanda\u0142y damskie na s\u0142upku w kolorze br\u0105zowym",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie na koturnie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Czarne sk\u00f3rzane sanda\u0142y damskie na s\u0142upku w stylu miejskim",
+        "price": 439.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sanda\u0142y damskie z ozdob\u0105 na pasku",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wysokie sanda\u0142y na szpilce w kolorze be\u017cowym",
+        "price": 459.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Br\u0105zowe sanda\u0142y damskie na grubej podeszwie",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Z\u0142ote sk\u00f3rzane sanda\u0142y damskie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie z paskami na p\u0142askiej podeszwie",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne klapki damskie na obcasie typu chunky heel",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe sanda\u0142y damskie z plecionymi paskami",
+        "price": 359.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe kowbojki damskie na \u015bci\u0119tym obcasie",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne loafersy damskie ze sk\u00f3ry lakierowanej",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sznurowane p\u00f3\u0142buty damskie ze sk\u00f3ry licowej",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "Czarne klapki na wysokiej platformie z korka",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Wygodne czarne klapki damskie z klamrami na pasku",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne p\u0142askie sanda\u0142y damskie z zakryt\u0105 pi\u0119t\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe wsuwane botki damskie z dwoiny welurowej",
+        "price": 399.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne damskie botki",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Oryginalne czarne mokasyny damskie z kolorow\u0105 podeszw\u0105",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne klapki damskie na p\u0142askiej podeszwie",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czerwone cz\u00f3\u0142enka damskie na szpilce",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Z\u0142ote sk\u00f3rzane klapki damskie z t\u0142oczeniem",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane klapki damskie",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe p\u00f3\u0142buty damskie w stylu miejskim typu brogsy",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "Czarne lakierowane mokasyny damskie na oryginalnej podeszwie",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czerwone cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej na ozdobnym obcasie",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne wysokie wsuwane botki damskie",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Zielone welurowe cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 319.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Cz\u00f3\u0142enka damskie w kolorze zielonym na wysokim s\u0142upku",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Jasnobr\u0105zowe botki damskie na ukrytej koturnie",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Be\u017cowe baleriny damskie w klasycznym stylu",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne damskie mokasyny horsebit z ozdobnym motywem w c\u0119tki",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Be\u017cowe trzewiki damskie na niskim s\u0142upku",
+        "price": 307.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Wysokie niebiesko-czarne trekkingi damskie z ociepleniem",
+        "price": 321.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne sk\u00f3rzane botki damskie na koturnie",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 29
+      },
+      {
+        "name": "Czarne oryginalne sztyblety damskie inspirowane mokasynami",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Bia\u0142e sneakersy damskie ze srebrnymi elementami",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 50
+      },
+      {
+        "name": "Bia\u0142e trampki damskie z kontrastowymi wstawkami",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Eleganckie cz\u00f3\u0142enka damskie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 45
+      },
+      {
+        "name": "Czarne trzewiki damskie ze sk\u00f3ry licowej w stylu urban",
+        "price": 367.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Bia\u0142e trampki damskie z granatow\u0105 wstawk\u0105",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 45
+      },
+      {
+        "name": "Be\u017cowe mokasyny damskie na platformie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne p\u0142askie sanda\u0142y damskie na rzepy",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Bia\u0142e cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej | comfort",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Eleganckie be\u017cowe cz\u00f3\u0142enka na s\u0142upku",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Bia\u0142e mokasyny damskie z lekk\u0105 podeszw\u0105",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie z ozdobnym obcasem",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Jasnobr\u0105zowe botki damskie typu sztyblety",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "Koralowe cz\u00f3\u0142enka damskie z weluru",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Oryginalne fioletowe baleriny damskie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Czarne szpilki damskie z kryszta\u0142kami",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Br\u0105zowe welurowe cz\u00f3\u0142enka damskie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Be\u017cowe cz\u00f3\u0142enka damskie z linii comfort",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Sanda\u0142y damskie na koturnie z plecionymi granatowo-be\u017cowymi paskami",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Zielone cz\u00f3\u0142enka damskie z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 251.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Jasnobr\u0105zowe sk\u00f3rzane klapki damskie",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "Br\u0105zowe botki damskie",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Czarne lakierowane cz\u00f3\u0142enka damskie z t\u0142oczeniem na s\u0142upku",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 45
+      },
+      {
+        "name": "Bia\u0142e wsuwane sneakersy damskie na grubej podeszwie",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 21
+      },
+      {
+        "name": "Czerwone lakierowane loafersy damskie",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 45
+      },
+      {
+        "name": "Czarne mokasyny damskie na grubej podeszwie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Trekkingi damskie w kolorze pomara\u0144czowym i czarnym",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 33
+      },
+      {
+        "name": "R\u00f3\u017cowe trekkingi damskie z czarnymi wstawkami",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Br\u0105zowe lordsy damskie ze sk\u00f3ry licowej",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Czarne trampkidamskie z czarno-bia\u0142\u0105 podeszw\u0105",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Czerwono-czarne trekkingowe p\u00f3\u0142buty damskie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Bia\u0142e sk\u00f3rzane p\u00f3\u0142buty damskie",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "P\u00f3\u0142buty damskie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "P\u00f3\u0142buty damskie",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Fioletowe cz\u00f3\u0142enka damskie na wysokim s\u0142upku",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Klasyczne czarne cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 11
+      },
+      {
+        "name": "Br\u0105zowe cz\u00f3\u0142enka damskie na niskim obcasie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Multikolorowe p\u00f3\u0142buty",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Eleganckie bia\u0142e cz\u00f3\u0142enka damskie ze sk\u00f3ry licowej",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 74
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka ze sk\u00f3ry welurowej z kryszta\u0142kami",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Eleganckie granatowe szpilki z weluru",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Bia\u0142e sk\u00f3rzane trampki damskie w stylu retro",
+        "price": 259.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "Czarne klapki damskie na p\u0142askiej platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Bia\u0142e sanda\u0142y damskie z pikowanym paskiem",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "Jasnoniebieskie lakierowane sanda\u0142y damskie na platformie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Czarne masywne sanda\u0142y damskie z pikowaniem",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "Jasnobr\u0105zowe sk\u00f3rzane klapki damskie na platformie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Bia\u0142e klapki damskie z ozdobnym \u0142a\u0144cuszkiem i be\u017cow\u0105 podeszw\u0105",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Be\u017cowe masywne klapki damskie ze sk\u00f3ry licowej",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "Czarne sanda\u0142y damskie idealne na lato",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 38
+      },
+      {
+        "name": "Czarne sk\u00f3rzane klapki damskie z ozdobionymi paskami",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "Jasnobr\u0105zowe sanda\u0142y damskie na koturnie z minikolekcji POWER CORD",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Sanda\u0142y damskie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Czarne masywne sanda\u0142y damskie na platformie",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 22
+      },
+      {
+        "name": "Klapki damskie na grubej podeszwie z kolorowymi paskami",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Bia\u0142e masywne sanda\u0142y damskie na platformie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Be\u017cowe klapki damskie na wysokiej podeszwie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "Uniwersalne czarne sanda\u0142y damskie na obcasie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Czarne klapki damskie z paskami z lakierowanej sk\u00f3ry licowej z ozdobnym t\u0142oczeniem",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "Czarne klapki damskie z ozdobn\u0105 klamerk\u0105",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "Czarne p\u0142askie sanda\u0142y damskie z pikowaniem",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Bia\u0142e sanda\u0142y damskie na masywnej podeszwie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Be\u017cowe p\u0142askie klapki damskie w stylu miejskim",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Be\u017cowe sk\u00f3rzane klapki damskie na jasnobr\u0105zowej podeszwie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "Bia\u0142e klapki damskie na platformie z kontrastow\u0105 podeszw\u0105",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "P\u0142askie sk\u00f3rzane sanda\u0142y damskie w kolorze be\u017cowym",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 33
+      },
+      {
+        "name": "P\u0142askie be\u017cowe sanda\u0142y damskie ze sk\u00f3ry naturalnej",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Czarne sk\u00f3rzane sanda\u0142y damskie na platformie",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "Jasnobr\u0105zowe klapki damskie na p\u0142askiej podeszwie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 45
+      },
+      {
+        "name": "Czarne klapki damskie na masywnej podeszwie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "Czarne klapki damskie na obcasie w stylu urban",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Koralowe sanda\u0142y damskie z przeplatanymi paskami",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "Klapki damskie z br\u0105zowo-be\u017cowym plecionym paskiem",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 47
+      },
+      {
+        "name": "RELAKS czarne trzewiki damskie ze sk\u00f3ry i ortalionu",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "WJS czarne sznurowane trzewiki damskie ze z\u0142otymi ozdobnymi k\u00f3\u0142kami",
+        "price": 195.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 22
+      },
+      {
+        "name": "Czarne lordsy damskie z imitacj\u0105 sk\u00f3ry krokodyla",
+        "price": 199.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 11
+      },
+      {
+        "name": "Czarne cz\u00f3\u0142enka damskie",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "Be\u017cowe pikowane klapki damskie na grubej podeszwie",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      }
+    ],
+    [
+      {
+        "name": "RELAKS ciep\u0142e czarne \u015aniegowce damskie",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "WJS czarne trzewiki damskie ze z\u0142otymi elementami",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne \u015aniegowce damskie typu trzewiki",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne bikery damskie z pikowaniem",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS bia\u0142e pikowane bikery damskie",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe Relaksy damskie typu \u015bniegowce ocieplane sk\u00f3r\u0105 owcz\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS jasnobr\u0105zowe wsuwane \u015aniegowce damskie",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "WJS czarne eleganckie kozaki damskie",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne botki damskie na wysokim obcasie",
+        "price": 155.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 32
+      },
+      {
+        "name": "WJS czarne kozaki damskie na s\u0142upku",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Kapcie RELAKS jasnobr\u0105zowe z we\u0142n\u0105 merino",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe zimowe RELAKS",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "RELAKS stylowe ocieplane bia\u0142e \u015aniegowce damskie",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 16
+      },
+      {
+        "name": "WJS czarne lakierowane botki damskie",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne \u015aniegowce damskie z po\u0142\u0105czenia sk\u00f3ry i ortalionu",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z ekosk\u00f3ry z \u0142a\u0144cuchem",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne wi\u0105zane \u015bniegowce damskie RELAKS",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS wysokie be\u017cowe kozaki damskie",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne ocieplane \u015aniegowce damskie",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z ozdobn\u0105 klamr\u0105",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Botki Wojas x Bartek 8440263, br\u0105zowy",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 50
+      },
+      {
+        "name": "Wysokie \u015bniegowce damskie RELAKS w kolorze czarnym",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z ozdobnym paskiem",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z ozdobnymi paskami",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "P\u00f3\u0142buty Wojas x Bartek 8300275, r\u00f3\u017cowo-szary",
+        "price": 131.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 5
+      },
+      {
+        "name": "WJS czarne kozaki z elastyczn\u0105 gum\u0105 na boku",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 7
+      },
+      {
+        "name": "RELAKS czarne ocieplane trzewiki damskie z bia\u0142ym ko\u017cuchem",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 24
+      },
+      {
+        "name": "WJS be\u017cowe trzewiki damskie na jesie\u0144",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "RELAKS jasnobr\u0105zowe \u015aniegowce damskie z wywijan\u0105 cholewk\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne sk\u00f3rzane trzewiki damskie z ko\u017cuszkiem",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne mokasyny damskie na grubej podeszwie",
+        "price": 199.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne sk\u00f3rzane kapcie RELAKS z we\u0142n\u0105 z merynosa",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne p\u0142askie botki damskie z zamkiem z ty\u0142u",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne damskie botki z marszczeniami na cholewce",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne workery damskie z torebk\u0105",
+        "price": 399.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne pikowane botki na obcasie",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "P\u00f3\u0142buty Wojas x Bartek 8300381, bia\u0142o-czarny",
+        "price": 131.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 5
+      },
+      {
+        "name": "P\u00f3\u0142buty BARTEK 8300186, bia\u0142o-niebieski",
+        "price": 111.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS czarne krokodylowe botki damskie na obcasie",
+        "price": 279.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne kozaki damskie za kolano",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS be\u017cowe trzewiki damskie w stylu miejskim",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS oryginalne bia\u0142e trzewiki damskie",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS be\u017cowe lakierowane botki z noskiem w szpic",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS p\u0142askie kozaki damskie w kolorze czarnym",
+        "price": 209.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 16
+      },
+      {
+        "name": "RELAKS czarne \u015aniegowce damskie paskami na rzep",
+        "price": 349.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 24
+      },
+      {
+        "name": "Czarno-niebieskie wsuwane \u015bniegowce damskie RELAKS",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarne awangardowe \u015bniegowce RELAKS",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe kapcie RELAKS z we\u0142ny z merynosa",
+        "price": 299.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne wysokie kozaki damskie za kolano",
+        "price": 244.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 2
+      },
+      {
+        "name": "Ciemnobr\u0105zowe wsuwane kapcie RELAKS z we\u0142n\u0105 merino",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne kozaki damskie do kolan na masywnej podeszwie",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne ocieplane trzewiki damskie ze z\u0142otymi elementami",
+        "price": 499.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "P\u00f3\u0142buty Wojas x Bartek 8300089, bia\u0142y",
+        "price": 131.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 5
+      },
+      {
+        "name": "WJS p\u0142askie zielone kozaki damskie",
+        "price": 244.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 6
+      },
+      {
+        "name": "WJS czarne botki damskie z zamkiem z ty\u0142u",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 9
+      },
+      {
+        "name": "WJS czarne wysokie trzewiki damskie z motywem zwierz\u0119cym",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie z \u0142a\u0144cuchem",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "RELAKS be\u017cowe pantofle damskie puchate",
+        "price": 155.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "Czarne klapki damskie RELAKS ze z\u0142otym logo",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne p\u00f3\u0142buty damskie typu mokasyny t\u0142oczone",
+        "price": 219.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS puchate bia\u0142e kapcie damskie",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne wysokie kozaki damskie na obcasie",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne trzewiki damskie typu workery",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "Srebrno-czarne \u015bniegowce damskie RELAKS",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 24
+      },
+      {
+        "name": "RELAKS czarne puchate kapcie damskie",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 30
+      },
+      {
+        "name": "RELAKS be\u017cowe puchate kapcie damskie z gumk\u0105",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "WJS czarne trzewiki damskie typu workery",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne \u015aniegowce damskie z bia\u0142o-czarnym sznurowaniem",
+        "price": 179.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS be\u017cowo-z\u0142ote trzewiki damskie z ociepleniem",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "WJS niebieskie kapcie ze sztucznego futra z gumk\u0105",
+        "price": 149.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS fioletowe puchate kapcie na flatformie",
+        "price": 149.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS r\u00f3\u017cowe puchate kapcie z gumk\u0105 na pi\u0119t\u0119",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS be\u017cowe sanda\u0142y damskie na obcasie z kryszta\u0142kow\u0105 ozdob\u0105",
+        "price": 179.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS puchate czarne kapcie na p\u0142askiej podeszwie",
+        "price": 129.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne p\u0142askie kozaki damskie z \u0142a\u0144cuchem",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS be\u017cowe \u015aniegowce damskie z wywijan\u0105 cholewk\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne \u015aniegowce damskie z wywijan\u0105, ocieplan\u0105 cholewk\u0105",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS \u017c\u00f3\u0142te kapcie damskie z przeplatanymi paskami",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS be\u017cowe kozaki damskie zapinane na zamek",
+        "price": 349.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe klapki damskie z bia\u0142ym logo RELAKS",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS jasnobr\u0105zowe kozaki damskie z ociepleniem",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne mokasyny damskie w stylu casual",
+        "price": 249.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS be\u017cowe mokasyny damskie z \u0142a\u0144cuchem",
+        "price": 219.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne mokasyny damskie krokodyl",
+        "price": 199.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne kapcie damskie z gumk\u0105 na pi\u0119t\u0119",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS wygodne sneaksery damskie w kolorze bia\u0142ym",
+        "price": 199.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS mokasyny damskie lakierowane czarne",
+        "price": 219.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS bia\u0142e sznurowane sneakersy damskie",
+        "price": 149.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS puchate kapcie damskie off-white z pere\u0142kami",
+        "price": 129.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Srebrne \u015bniegowce damskie RELAKS z po\u0142\u0105czenia sk\u00f3ry licowej i materia\u0142u",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne lakierowane mokasyny damskie z metalow\u0105 ozdob\u0105",
+        "price": 199.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Be\u017cowe wysokie \u015bniegowce damskie RELAKS",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne sanda\u0142y damskie z kryszta\u0142kami i odkryt\u0105 pi\u0119t\u0105",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "RELAKS bia\u0142e klapki damskie z kontrastowym logo",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS czarne gumowe klapki damskie",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Srebrne \u015bniegowce damskie RELAKS",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS wsuwane \u015bniegowce damskie w kolorze bia\u0142o-be\u017cowym",
+        "price": 599.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "Czarno-granatowe \u015bniegowce damskie RELAKS",
+        "price": 549.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "RELAKS be\u017cowe trzewiki damskie z bia\u0142ym ko\u017cuszkiem i podeszw\u0105 trepow\u0105",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 24
+      },
+      {
+        "name": "Jasnor\u00f3\u017cowe klapki damskie RELAKS",
+        "price": 99.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne masywne kozaki damskie",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS wysokie be\u017cowe sanda\u0142y damskie z kryszta\u0142kami",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS czarne klapki damskie na szpilce",
+        "price": 179.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS klapki damskie w kolorze r\u00f3\u017cowym",
+        "price": 179.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne wysokie sanda\u0142y na obcasie",
+        "price": 249.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS be\u017cowe lekkie espadryle damskie",
+        "price": 159.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS czarne kozaki damskie na obcasie typu s\u0142upek",
+        "price": 329.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      },
+      {
+        "name": "WJS pastelowe fioletowe cz\u00f3\u0142enka damskie na s\u0142upku",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "Czarne wieczorowe sanda\u0142y damskie na obcasie",
+        "price": 159.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS wysokie r\u00f3\u017cowe sanda\u0142y damskie na platformie",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS be\u017cowe masywne sanda\u0142y damskie na wysokim obcasie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "RELAKS czarne puchate kapcie z gumk\u0105 na pi\u0119t\u0119",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 40
+      },
+      {
+        "name": "RELAKS be\u017cowe trzewiki damskie z dwoiny welurowej i ortalionu",
+        "price": 299.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 35
+      },
+      {
+        "name": "WJS czarne botki z zamkiem z przodu",
+        "price": 259.0,
+        "is_discounted": false,
+        "is_new": false,
+        "discount_percent": null
+      }
+    ],
+    [
+      {
+        "name": "WJS czarne wysokie sanda\u0142y damskie z odkryt\u0105 pi\u0119t\u0105",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS zjawiskowe r\u00f3\u017cowe sanda\u0142y damskie na s\u0142upku",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS czarne b\u0142yszcz\u0105ce sanda\u0142y damskie na wysokim s\u0142upku",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "WJS bia\u0142e japonki damskie z kontrastow\u0105 podeszw\u0105",
+        "price": 59.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS \u017c\u00f3\u0142te japonki damskie na lato",
+        "price": 49.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS czarne japonki z imitacj\u0105 krokodylej sk\u00f3ry",
+        "price": 59.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "P\u0142askie japonki damskie w kolorze mi\u0119towym",
+        "price": 49.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS pomara\u0144czowe japonki damskie na lato",
+        "price": 59.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS be\u017cowe sanda\u0142y damskie z kryszta\u0142kami",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "WJS neonowe r\u00f3\u017cowe cz\u00f3\u0142enka damskie z noskiem w szpic",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS czarne sanda\u0142y damskie na szerokim obcasie",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "WJS z\u0142ote sanda\u0142y damskie z kryszta\u0142kami na s\u0142upku",
+        "price": 179.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "WJS zjawiskowe srebrne sanda\u0142y damskie na obcasie",
+        "price": 159.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS wysokie be\u017cowe sanda\u0142y na platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS be\u017cowe sanda\u0142y damskie na platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS czarne sanda\u0142y damskie z plecionymi b\u0142yszcz\u0105cymi paskami",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS czarne lakierowane sanda\u0142y damskie na szerokim obcasie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS czarne cz\u00f3\u0142enka na wysokiej platformie i obcasie w formie s\u0142upka",
+        "price": 159.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS r\u00f3\u017cowe sneakersy damskie w delikatnej kolorystyce",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 4
+      },
+      {
+        "name": "WJS wysokie sanda\u0142y damskie w kolorze czarnym",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS czarne sanda\u0142y damskie z paskami z kryszta\u0142kami",
+        "price": 159.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS eleganckie be\u017cowe botki na obcasie",
+        "price": 181.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 9
+      },
+      {
+        "name": "WJS sanda\u0142y damskie na platformie w kolorze czarnym",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS r\u00f3\u017cowe sanda\u0142y damskie z ozdobnymi plecionymi paskami",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "WJS czarne klapki damskie z p\u00f3\u0142przezroczystymi paskami",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS srebrne wysokie sanda\u0142y damskie na platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS z\u0142ote sanda\u0142y platformie i wysokim s\u0142upku",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "WJS be\u017cowe klapki damskie typu japonki",
+        "price": 49.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS czarne japonki damskie na p\u0142askiej podeszwie",
+        "price": 59.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS czarne klapki z ozdobnym jutowym sznurkiem",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS r\u00f3\u017cowe sanda\u0142y damskie z pikowanymi paskami",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS jasnobr\u0105zowe kozaki damskie z ozdobnym \u0142a\u0144cuchem",
+        "price": 239.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 4
+      },
+      {
+        "name": "WJS srebrne holograficzne sanda\u0142y damskie na s\u0142upku",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "WJS z\u0142ote holograficzne sanda\u0142y damskie",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS czarne eleganckie klapki damskie na obcasie",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 26
+      },
+      {
+        "name": "WJS bia\u0142e p\u0142askie sanda\u0142y damskie z br\u0105zow\u0105 wk\u0142adk\u0105",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 3
+      },
+      {
+        "name": "WJS czarne p\u0142askie sanda\u0142y damskie z ozdobnymi paskami",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS bia\u0142e sanda\u0142y damskie na platformie z marszczeniami na paskach",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS be\u017cowe espadryle damskie z wi\u0105zaniem wok\u00f3\u0142 kostki",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 11
+      },
+      {
+        "name": "WJS czarne sanda\u0142y z zapi\u0119ciem wok\u00f3\u0142 kostki",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS r\u00f3\u017cowa sanda\u0142y damskie z ozdobnym \u0142a\u0144cuszkiem wok\u00f3\u0142 kostki",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "WJS p\u0142askie sanda\u0142y ze spr\u0119\u017cyn\u0105 z kryszta\u0142kami wok\u00f3\u0142 \u0142ydki",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS jasnor\u00f3\u017cowe klapki damskie na bia\u0142ej podeszwie",
+        "price": 89.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "WJS be\u017cowe sanda\u0142y damskie ze sznurk\u00f3w",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS p\u0142askie be\u017cowe sanda\u0142y na podeszwie z warkoczem",
+        "price": 149.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 29
+      },
+      {
+        "name": "WJS be\u017cowe sanda\u0142y damskie ze z\u0142otym \u0142a\u0144cuszkiem",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS czarne sanda\u0142y damskie z kryszta\u0142kami",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS eleganckie srebrne sanda\u0142y damskie na obcasie",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      },
+      {
+        "name": "WJS zielone sanda\u0142y damskie ze sznurkowymi paskami",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS p\u0142askie be\u017cowe sanda\u0142y damskie z \u0142a\u0144cuchem",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS p\u0142askie sanda\u0142y damskie z czarnymi paskami",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 10
+      },
+      {
+        "name": "WJS z\u0142ote klapki damskie na p\u0142askiej podeszwie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 4
+      },
+      {
+        "name": "WJS p\u0142askie klapki damskie z paskiem na du\u017cy palec",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 4
+      },
+      {
+        "name": "WJS eleganckie be\u017cowe sanda\u0142y damskie",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS czarne stylowe kozaki damskie na p\u0142askiej podeszwie",
+        "price": 244.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 6
+      },
+      {
+        "name": "WJS wysokie srebrne sanda\u0142y damskie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 23
+      },
+      {
+        "name": "WJS czarne kozaki damskie typu sztyblety",
+        "price": 279.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 1
+      }
+    ],
+    [
+      {
+        "name": "WJS be\u017cowe masywne klapki damskie na platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 4
+      },
+      {
+        "name": "WJS delikatne srebrne sanda\u0142y damskie",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "WJS z\u0142ote sanda\u0142y damskie na s\u0142upku",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 13
+      },
+      {
+        "name": "WJS klapki damskie z czarnymi delikatnymi paskami",
+        "price": 59.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 25
+      },
+      {
+        "name": "WJS czarne sanda\u0142y damskie na obcasie z plecionym paskiem",
+        "price": 129.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 19
+      },
+      {
+        "name": "WJS oryginalne be\u017cowe sanda\u0142y na platformie",
+        "price": 79.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS czarne sanda\u0142y ze srebrnym \u0142a\u0144cuchem",
+        "price": 119.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 20
+      },
+      {
+        "name": "WJS oryginalne be\u017cowe sanda\u0142y damskie na platformie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 17
+      },
+      {
+        "name": "WJS be\u017cowe sanda\u0142y damskie na p\u0142askiej podeszwie",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 8
+      },
+      {
+        "name": "RELAKS be\u017cowe \u015bniegowce damskie z \u0142\u0105czonych materia\u0142\u00f3w",
+        "price": 419.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 24
+      },
+      {
+        "name": "Granatowe zimowe RELAKS",
+        "price": 99.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 34
+      },
+      {
+        "name": "WJS czarne p\u0142askie kozaki damskie z wysok\u0105 cholewk\u0105",
+        "price": 263.0,
+        "is_discounted": true,
+        "is_new": false,
+        "discount_percent": 12
+      }
+    ]
+  ],
+  "count": 17
+}
