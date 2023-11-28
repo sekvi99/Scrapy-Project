@@ -6509,6 +6509,20 @@
         "discount_percent": 24
       },
       {
+        "name": "Czarne wieczorowe sanda\u0142y na szpilce",
+        "price": 379.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
+        "name": "Jasnobr\u0105zowe sztyblety damskie na szerokim obcasie",
+        "price": 579.0,
+        "is_discounted": false,
+        "is_new": true,
+        "discount_percent": null
+      },
+      {
         "name": "WJS oryginalne be\u017cowe sanda\u0142y na platformie",
         "price": 79.0,
         "is_discounted": true,

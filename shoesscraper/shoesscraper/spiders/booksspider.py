@@ -3,13 +3,14 @@ from typing import Any
 import scrapy
 from scrapy.http import Response
 
-from shoesscraper.page_handlers.handers.books_page_handler import BooksNextPageHandler
-
-from shoesscraper.consts.books_consts.constans import BASE_URL, CUT_OFF_BASE_URL, NEXT_PAGE_URL_SELECTOR, PRODUCT_NEXT_PAGE_SELECTOR, SPIDER_NAME
+from shoesscraper.consts.books_consts.constans import (
+    BASE_URL, CUT_OFF_BASE_URL, NEXT_PAGE_URL_SELECTOR,
+    PRODUCT_NEXT_PAGE_SELECTOR, SPIDER_NAME)
+from shoesscraper.page_handlers.handers.books_page_handler import \
+    BooksNextPageHandler
+from shoesscraper.parsers.parsers.book_parser import BookParser
 
 from ..spiders.base_spider_class import BaseSpider
-
-from shoesscraper.parsers.shoe_parser.book_parser import BookParser
 
 
 class BooksSpider(BaseSpider):

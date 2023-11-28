@@ -1,11 +1,13 @@
 from dataclasses import dataclass
-from typing import List, Union, Any
+from typing import Any, List, Union
 
 from ...consts.books_consts.constans import (
-    PRODUCTS_LIST_SELECTOR, PRODUCT_RANK_SELECTOR, PRODUCT_NAME_SELECTOR, PRODUCT_AUTHOR_SELECTOR, PRODUCT_PRICE_SELECTOR,
-    PRODUCT_PRICE_FROM_30_DAYS_SELECTOR, PRODUCT_PRICE_DISCOUNT_SELECTOR)
+    PRODUCT_AUTHOR_SELECTOR, PRODUCT_NAME_SELECTOR,
+    PRODUCT_PRICE_DISCOUNT_SELECTOR, PRODUCT_PRICE_FROM_30_DAYS_SELECTOR,
+    PRODUCT_PRICE_SELECTOR, PRODUCT_RANK_SELECTOR, PRODUCTS_LIST_SELECTOR)
 from ...items import BookItemDto
 from ..abstract_parser import AbstractParser
+
 
 @dataclass
 class BookParser(AbstractParser):

@@ -7,7 +7,7 @@ from shoesscraper.consts.shoes_consts.constans import (
     BASE_URL, NEXT_PAGE_URL_SELECTOR, PRODUCT_NEXT_PAGE_SELECTOR, SPIDER_NAME)
 from shoesscraper.page_handlers.handers.shoes_page_handler import \
     ShoesNextPageHandler
-from shoesscraper.parsers.shoe_parser.shoe_parser import ShoeParser
+from shoesscraper.parsers.parsers.shoe_parser import ShoeParser
 
 from ..spiders.base_spider_class import BaseSpider
 
